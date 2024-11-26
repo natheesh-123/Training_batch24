@@ -1,0 +1,7 @@
+26/11/24
+
+*html:
+-it is use to create structure of web page.
+it is use to dispaly  data to user on broeser.
+it is stand fior hyper yext markup language,.
+the latest version of html is html5.
