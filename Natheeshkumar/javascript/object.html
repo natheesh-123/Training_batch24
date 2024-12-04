@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+
+
+    <script>
+
+        let emp = {
+
+            id: 101,
+            name: "natheesh",
+            single: true,
+            details: function () {
+                //return this.id+"  "+this.name;
+                return `id:${this.id} `;
+            },
+
+            address :{
+                city:"dindigul",
+                pin:45637,
+                state:"tamilnadu"
+
+            }
+
+        };
+
+        document.write(`id  :${emp.id}  name  :${emp.name}  single  :${emp.single} 
+        details:${emp.details()} address:${emp.address.city}`);
+
+
+
+
+
+        // 2.array of object
+
+        let std = [
+            { id: 1, name: "tom", contact: 777, gender: "male" },
+            { id: 1, name: "mahi", contact: 555, gender: "male" },
+            { id: 1, name: "dev", contact: 666, gender: "male" }
+        ];
+
+        for (let s of std) {
+            document.write(`id:${ s.id } name:${ s.name } contact:${ s.contact } gender:${ s.gender } <br>`);
+
+        }
+    </script>
+
+
+</body>
+
+</html>
