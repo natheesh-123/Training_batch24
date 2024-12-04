@@ -11,7 +11,7 @@ class MyStateComp extends Component {
     }
         changeStateData=()=>{
             this.setState({empName:"mahesh r",empSal:this.state.empSal+5000});
-            //.setState((prevState) => ({ empName: "mahesh r", empSal: prevState.empSal + 5000 }));
+            //this.setState((prevState) => ({ empName: "mahesh r", empSal: prevState.empSal + 5000 }));
         }
 
 
