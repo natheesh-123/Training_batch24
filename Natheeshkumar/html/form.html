@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <form type="post">
+
+        <div>
+
+            <label for="uname">Enter your fullname:</label>
+            <input type="text" name="fname" id="uname" pattern="^{a-zA-Z }{2,20}$" placeholder="enter your fullname"
+                required>
+
+        </div>
+
+        <div>
+
+            <label for="upass">Enter your password:</label>
+            <input type="password" name="password" id="upass" placeholder="enter your password" required>
+
+        </div>
+
+        <div>
+
+            <label for="uemail">Enter your email:</label>
+            <input type="email" name="email" id="uemail" placeholder="enter your email" required>
+
+        </div>
+
+        <label for="ucontact">enter your contact:</label>
+        <input type="tel" name="contact" id="ucontact" placeholder="enter your ucontact" required>
+
+        <div>
+
+            <label for="udob">select your DOB:</label>
+            <input type="date" id="udob" required>
+        </div>
+
+        <div>
+
+            <label for="">select your gender:</label>
+            <input type="radio" name="gender" value="male" checked>Male
+            <input type="radio" name="gender" value="male" checked>Female
+            <input type="radio" name="gender" value="male" checked>Transgender
+
+        </div>
+
+        <div>
+
+            <label for="">enter yoyr qualification:</label>
+            <input type="checkbox" name="edu" value="ssc">SSC
+            <input type="checkbox" name="edu" value="hsc">HSC
+            <input type="checkbox" name="edu" value="ug">UG
+            <input type="checkbox" name="edu" value="pg">PG
+
+        </div>
+
+        <div>
+
+            <label for="">select your course:</label>
+            <select multiple name="courses" id="required">
+
+                <option value="">select your course</option>
+                <option value="">java</option>
+                <option value="">python</option>
+                <option value="">react</option>
+                <option value="">angular</option>
+
+            </select>
+        </div>
+
+
+    </form>
+
+<div>
+
+    <label for="">fees</label>
+    <input type="text" name="fees" value="10000" readonly disabled>
+</div>
+
+<div>
+
+    <label for="">feedback</label>
+    <textarea name="" id=""></textarea>
+</div>
+
+<button type="submit">submit</button>
+
+</body>
+</html>
