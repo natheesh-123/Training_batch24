@@ -10,6 +10,7 @@ import MyImageComp from './components/MyImagesComp';
 import UserComp from './components/UserComp';
 import ErrorBoundaryComp from './components/ErrorBoundaryComp';
 import VirtualDom from './components/VirtualDom';
+import EmployeeDetails from './task/TableTask';
 
 function App() {
   return (
@@ -31,7 +32,7 @@ function App() {
       {/* <ClassComp></ClassComp>
       <MyStateComp></MyStateComp> */}
       {/* <ClickCounterComp></ClickCounterComp> */}
-      <Counttask></Counttask>
+      {/* <Counttask></Counttask> */}
   {/* <HoverCounterComp></HoverCounterComp>
   <MyHocComp></MyHocComp> */}
 {/* <MyImageComp></MyImageComp> */}
@@ -44,6 +45,8 @@ function App() {
 <ErrorBoundaryComp><UserComp user="ravi"/>
 </ErrorBoundaryComp> */}
 {/* <VirtualDom></VirtualDom> */}
+
+<EmployeeDetails></EmployeeDetails>
 
     </div>
   );
