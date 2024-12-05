@@ -22,7 +22,7 @@ class MyStateComp extends Component {
 
                 <p> <strong>{this.state.empName}</strong> and salary:<strong>{this.state.empSal}</strong></p>
 
-                <button type="button" onClick={() => this.changeStateData()}>change state data</button>
+                <button type="button" onClick={ this.changeStateData}>change state data</button>
 
             </div>
         )

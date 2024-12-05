@@ -1,6 +1,7 @@
 import bird from '../assets/Images/bird.jpg';
 import butterfly from '../assets/Images/butterfly.jpg';
 import commonData from '../shared/constant/constantData';
+
 const MyImageComp = () => {
     return (
 

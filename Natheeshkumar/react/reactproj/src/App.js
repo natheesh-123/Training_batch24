@@ -31,7 +31,7 @@ function App() {
       {/* <ClassComp></ClassComp>
       <MyStateComp></MyStateComp> */}
       {/* <ClickCounterComp></ClickCounterComp> */}
-      {/* <Counttask></Counttask> */}
+      <Counttask></Counttask>
   {/* <HoverCounterComp></HoverCounterComp>
   <MyHocComp></MyHocComp> */}
 {/* <MyImageComp></MyImageComp> */}
@@ -43,7 +43,7 @@ function App() {
 </ErrorBoundaryComp>
 <ErrorBoundaryComp><UserComp user="ravi"/>
 </ErrorBoundaryComp> */}
-<VirtualDom></VirtualDom>
+{/* <VirtualDom></VirtualDom> */}
 
     </div>
   );
