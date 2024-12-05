@@ -21,7 +21,7 @@ class Counttask extends Component {
 
     reset = () => {
         this.setState({ count: 0 });
-        this.setState({ count: 0 });
+       // this.setState({ count: 0 });
     }
 
 
