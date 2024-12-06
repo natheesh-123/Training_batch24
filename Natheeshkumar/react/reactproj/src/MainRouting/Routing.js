@@ -14,7 +14,6 @@ import FormValComp from "../components/FormValComp";
 
 const routing = createBrowserRouter([
     
-
     {path:"",element:<LoginComp/>},
     {path:"loginComp",element:<LoginComp/>},
 
