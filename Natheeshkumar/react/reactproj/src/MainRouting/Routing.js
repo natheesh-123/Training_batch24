@@ -10,6 +10,9 @@ import MainDashBoardComp from "../Layout/MainDashBoardComp";
 import LoginComp from "../Layout/LoginComp";
 import MyFavColorComp from "../components/MyFavColorComp";
 import FormValComp from "../components/FormValComp";
+import ProductDashComp from "../CRUD/ProductDashComp";
+import ProductAddComp from "../CRUD/ProductAddComp";
+import ProductEditComp from "../CRUD/ProductEditComp";
 
 
 const routing = createBrowserRouter([
@@ -22,6 +25,10 @@ const routing = createBrowserRouter([
         {path:"", element:<Counttask/>},
         {path:"virtualdom", element:<Counttask/>},
         {path:"myfavcolorcomp",element:<MyFavColorComp newcolor="green"/>},
+        {path:"productdashcomp",element:<ProductDashComp/>},
+{path:"productaddcomp",element:<ProductAddComp/>},
+{path:"producteditcomp/:id",element:<ProductEditComp/>},
+        
 
         {path:"formvalcomp", element:<FormValComp/>},
     // 3.parameterize routing
