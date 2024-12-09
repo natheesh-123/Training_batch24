@@ -13,14 +13,18 @@ import FormValComp from "../components/FormValComp";
 import ProductDashComp from "../CRUD/ProductDashComp";
 import ProductAddComp from "../CRUD/ProductAddComp";
 import ProductEditComp from "../CRUD/ProductEditComp";
+import ProtectedRouting from "./ProtectedRouting";
+import MyCarouselComp from "../components/MyCarouselComp";
 
 
 const routing = createBrowserRouter([
     
     {path:"",element:<LoginComp/>},
     {path:"loginComp",element:<LoginComp/>},
+    // {path:"protectedrouting", element:<ProtectedRouting/>},
 
-    {path:"maindashboard",element:<MainDashBoardComp/>, children:[
+    // {path:"maindashboard",element:<MainDashBoardComp/>, children:[
+     {path:"maindashboard",element:<ProtectedRouting Component={MainDashBoardComp}/>, children:[
 
         {path:"", element:<Counttask/>},
         {path:"virtualdom", element:<Counttask/>},
@@ -28,6 +32,7 @@ const routing = createBrowserRouter([
         {path:"productdashcomp",element:<ProductDashComp/>},
 {path:"productaddcomp",element:<ProductAddComp/>},
 {path:"producteditcomp/:id",element:<ProductEditComp/>},
+{path:"mycarouselcomp",element:<MyCarouselComp/>},
         
 
         {path:"formvalcomp", element:<FormValComp/>},

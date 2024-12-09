@@ -3,8 +3,8 @@
     {
       "id": "101",
       "pname": "Laptop",
-      "pprice": "36",
-      "pcompany": "Hp",
+      "pprice": "35",
+      "pcompany": "dell",
       "pquantity": 10
     },
     {
@@ -27,13 +27,20 @@
       "pprice": 50000,
       "pcompany": "Hp",
       "pquantity": 10
+    },
+    {
+      "id": "0efe",
+      "pname": "pendrive",
+      "pprice": "500",
+      "pcompany": "hp",
+      "pquantity": "50"
     }
   ],
   "user": [
     {
-      "id": "1",
-      "userid": "admin@gmail.com",
-      "userpass": "admin@123"
+      "id": "2",
+      "userid": "natheesh@gmail.com",
+      "userpass": "ran@123"
     },
     {
       "id": "1",

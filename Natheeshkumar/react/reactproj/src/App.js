@@ -15,7 +15,7 @@ import EmployeeDetails from './task/TableTask';
 function App() {
   return (
     <div className="App">
-      {/* <header className="App-header">
+      <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
@@ -28,7 +28,7 @@ function App() {
         >
           Learn React
         </a>
-      </header> */}
+      </header>
       {/* <ClassComp></ClassComp>
       <MyStateComp></MyStateComp> */}
       {/* <ClickCounterComp></ClickCounterComp> */}
@@ -45,8 +45,8 @@ function App() {
 <ErrorBoundaryComp><UserComp user="ravi"/>
 </ErrorBoundaryComp> */}
 {/* <VirtualDom></VirtualDom> */}
-
-<EmployeeDetails></EmployeeDetails>
+{/* 
+<EmployeeDetails></EmployeeDetails> */}
 
     </div>
   );

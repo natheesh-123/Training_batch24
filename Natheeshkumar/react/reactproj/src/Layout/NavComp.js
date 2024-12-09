@@ -11,7 +11,10 @@ const NavComp=()=>{
             <Link to="hooks" className="btn btn-primary btm-sm me-4">hook</Link>
             <Link to="myfavcolorcomp" className="btn btn-primary btm-sm me-3">myfavcolour</Link>
             <Link to="formvalcomp" className="btn btn-primary btm-sm me-3">myform</Link>
-            <Link to="productdashcomp" className="btn btn-primary btm-sm">productdash</Link>
+            <Link to="productdashcomp" className="btn btn-primary btm-sm me-3">productdash</Link>
+            <Link to="mycarouselcomp" className="btn btn-primary btm-sm">mycarouselcomp</Link>
+
+
 
             
 

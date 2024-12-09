@@ -46,16 +46,16 @@ const ProductEditComp = () => {
 
                 <form onSubmit={addProduct}>
 
-                    <label className='form-label'>Enter product Name  </label>
+                    <label className='form-label'>Enter product name  </label>
                     <input type="text" name="pname" onChange={inputHandler} value={product.pname} className='form-control'></input>
 
-                    <label className='form-label'>Enter product Name  </label>
+                    <label className='form-label'>Enter product price  </label>
                     <input type="text" name="pprice" onChange={inputHandler} value={product.pprice} className='form-control'></input>
 
-                    <label className='form-label'>Enter product Name  </label>
+                    <label className='form-label'>Enter product company  </label>
                     <input type="text" name="pcompany" onChange={inputHandler} value={product.pcompany} className='form-control'></input>
 
-                    <label className='form-label'>Enter product Name  </label>
+                    <label className='form-label'>Enter product quantity  </label>
                     <input type="text" name="pquantity" onChange={inputHandler} value={product.pquantity} className='form-control'></input>
                     <button type="submit" className='btn btn-primary mt-2'> update data</button>
 
