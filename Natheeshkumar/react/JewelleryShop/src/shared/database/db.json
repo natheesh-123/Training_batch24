@@ -1,0 +1,12 @@
+{
+  "products": [
+
+    {
+      "id": "101",
+      "pname": "ring",
+      "pprice": 5000,
+      "pcompany": "grt",
+      "pquantity": 10
+    }
+  ]
+}

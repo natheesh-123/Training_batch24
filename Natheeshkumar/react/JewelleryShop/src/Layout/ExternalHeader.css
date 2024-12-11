@@ -1,0 +1,57 @@
+<<<<<<< HEAD
+.header{
+    text-align: center;
+    border: 2px solid blue;
+=======
+/* .header {
+    border: 1px solid rgb(224, 218, 126);
+    margin-top: 10px;
+    height: 180px;
+    background-color: azure;
+    background-image: url('../assets/Images/bangles.jpg');
+    background-size: cover;
+    background-position: center;
+
+}
+
+img {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    position: relative;
+    left: 40px;
+}
+
+h2 {
+    /* margin-left: 376px;
+    margin-top: 32px;
+    margin: auto; */
+/* justify-content: center;
+} */
+
+.header {
+    border: 1px solid rgb(224, 218, 126);
+    margin-top: 10px;
+    height: 180px;
+    background-color: azure;
+    background-image: url('../assets/Images/bangles.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+img {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    position: relative;
+    left: 40px;
+}
+
+h2 {
+    justify-content:center;
+>>>>>>> f0d2d68ca724c780311237dc6fbde2419822f6a7
+}
