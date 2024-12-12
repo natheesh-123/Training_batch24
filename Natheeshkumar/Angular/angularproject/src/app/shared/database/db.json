@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "id": "102",
+      "pname": "mouse",
+      "pprice": 50000,
+      "pcompany": "toshiba",
+      "pquantity": 15
+    },
+    {
+      "id": "101",
+      "pname": "Laptop",
+      "pprice": 50000,
+      "pcompany": "Hp",
+      "pquantity": 10
+    }
+  ],
+  "user": [
+    {
+      "id": "2",
+      "userid": "natheesh@gmail.com",
+      "userpass": "ran@123"
+    },
+    {
+      "id": "1",
+      "userid": "hero@gmail.com",
+      "userpass": "hero@123"
+    }
+  ]
+}

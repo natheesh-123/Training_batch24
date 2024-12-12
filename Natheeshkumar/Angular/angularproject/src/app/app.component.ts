@@ -9,7 +9,7 @@ import { ChangeimageComponent } from './tasks/changeimage/changeimage.component'
 @Component({
   selector: 'app-root',
   imports: [RouterOutlet,DatabindingComponent,DirectiveComponent,ParentComponent,MypipeComponent
-    ,ToggleimageComponent,ChangeimageComponent],
+    ,ToggleimageComponent,ChangeimageComponent,],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })

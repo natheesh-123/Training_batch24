@@ -8,27 +8,27 @@ import { Component } from '@angular/core';
 })
 export class ChangeimageComponent {
 
-  imagePath='../../public/images/messi.jpg';
-  value:string="messi"
-  toggle(value:string){
-    if(value=="ronaldo"){
-      this.imagePath="../../public/images/ronaldo.jpg"
-      this.value="ronaldo"
-    }
-    else if(value=="surez"){
-      this.imagePath = "../../public/images/surez.jpg"
-      this.value="surez"
-    }
+//   imagePath='../../public/images/messi.jpg';
+//   value:string="messi"
+//   toggle(value:string){
+//     if(value=="ronaldo"){
+//       this.imagePath="../../public/images/ronaldo.jpg"
+//       this.value="ronaldo"
+//     }
+//     else if(value=="surez"){
+//       this.imagePath = "../../public/images/surez.jpg"
+//       this.value="surez"
+//     }
 
-    else if(value=="Neymar"){
-      this.imagePath = "../../public/images/Neymar.jpg"
-      this.value="Neymar"
-    }
+//     else if(value=="Neymar"){
+//       this.imagePath = "../../public/images/Neymar.jpg"
+//       this.value="Neymar"
+//     }
 
-    else if(value=="messi"){
-      this.imagePath = "../../public/images/messi.jpg"
-      this.value="messi"
-    }
+//     else if(value=="messi"){
+//       this.imagePath = "../../public/images/messi.jpg"
+//       this.value="messi"
+//     }
 
-}
+// }
 }

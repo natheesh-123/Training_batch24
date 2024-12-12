@@ -8,39 +8,37 @@ import { Component } from '@angular/core';
 })
 export class ToggleimageComponent {
   
-  data:string = "bike"
-  imagePath:string = "../../public/images/bike.jpg"
-  toggle(){
-    if(this.data=="car"){
-      this.imagePath="../../public/images/car.jpg";
-      this.data= "car";
-    }
-    else{
-      this.imagePath="../../public/images/bike.jpg"
-      this.data="bike";
-    }
+  // data:string = "bike"
+  // imagePath:string = "../../public/images/bike.jpg"
+  // toggle(){
+  //   if(this.data=="car"){
+  //     this.imagePath="../../public/images/car.jpg";
+  //     this.data= "car";
+  //   }
+  //   else{
+  //     this.imagePath="../../public/images/bike.jpg"
+  //     this.data="bike";
+  //   }
 
    
-  }
+  // }
 
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    }
-  }
-  
-  
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  

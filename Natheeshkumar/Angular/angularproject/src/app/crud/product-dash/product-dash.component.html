@@ -1,0 +1,66 @@
+<!-- <p>product-dash works!</p>
+
+<table class="table table-hover table-bordered table-striped text-center">
+    <thead>
+        <tr>
+            <th>id</th>
+            <th>pname</th>
+            <th>pprice</th>
+            <th>pcompany</th>
+            <th>pquantity</th>
+            <th>action</th>
+        </tr>
+    </thead>
+
+    <tbody>
+                 <tr *ngFor="let product of productArray">
+                    <td>{product.id}</td>
+                    <td>{product.pnmae}</td>
+                    <td>{product.pprice}</td>
+                    <td>{product.pcompany}</td>
+                    <td>{product.pquantity}</td>
+                    <td>
+                        <button type="button" class="btn btn-outline-success btn-sm">Edit</button>
+                        <button type="button" class="btn btn-outline-success btn-sm">Delete</button>
+                    </td>
+                    </tr>
+                
+    </tbody>
+</table> -->
+
+
+
+<!-- <p>product-dash works!</p> -->
+
+<div class="container">
+    <button type="button" routerLink="/maindash/productadd" class="btn btn-primary mb-2">+ Add</button>
+    <table class="table table-bordered table-hover table-striped">
+        <thead>
+            <tr>
+                <td>ID</td>
+                <td>Name</td>
+                <td>Price</td>
+                <td>Company</td>
+                <td>Quantity</td>
+                <td>Action</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let data of products">
+                <td>{{data.id}}</td>
+                <td>{{data.pname}}</td>
+                <td>{{data.pprice}}</td>
+                <td>{{data.pcompany}}</td>
+                <td>{{data.pquantity}}</td>
+                <td>
+            
+                    <button type="button" class="btn btn-warning">Edit</button>
+                    <button type="button" class="btn btn-danger" (click)="deleteData(data.id)">Delete</button>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<a href="" [routerLink]="['/maindashboard/productedit/',products.id]" class="btn btn-outline-success"></a> 
+<button type="button" class="btn btn-outline-danger" (click)="deleteData(products.id)">delete</button>
