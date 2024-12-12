@@ -3,6 +3,8 @@ import HeaderComp from "../Layout/HeaderComp";
 import AboutComp from "../components/AboutComp";
 import HomeComp from "../components/HomeComp";
 import BNKJewelleryShop from "../Layout/BNKJewelleryShop";
+import ProductsComp from "../components/ProductsComp";
+import MyCarouselComp from "../components/MyCarouselComp";
 
 const routing = createBrowserRouter([
 
@@ -17,6 +19,10 @@ const routing = createBrowserRouter([
     
                 {path:"/aboutcomp",element:<AboutComp/>},
                 {path:"/homecomp",element:<HomeComp/>},
+                {path:"/productscomp",element:<ProductsComp/>},
+                {path:"/homecomp",element:<HomeComp/>},
+                {path:"/mycarouselcomp",element:<MyCarouselComp/>},
+                
 
 
     

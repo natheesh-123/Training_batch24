@@ -1,31 +1,20 @@
 
-// import NavComp from "./NavComp";
-// import { Outlet } from "react-router-dom";
-
-// const BNKJewelleryShop = () => {
-//     return (
-            
-//             <div>
-//                 <NavComp />
-//                 <Outlet /> {/* This renders child components based on the current route */}
-
-
-//             </div>
-
-
-//     )
-// }
-// export default BNKJewelleryShop;
-
 import React from "react";
 import { Outlet } from "react-router-dom";
 import NavComp from "./NavComp";
+import HeaderComp from "./HeaderComp";
+import MyCarouselComp from "../components/MyCarouselComp";
+import ProductsComp from "../components/ProductsComp";
 
 const BNKJewelleryShop = () => {
     return (
         <div>
-            <NavComp />
-            <Outlet /> {/* This renders HeaderComp and its children */}
+            <HeaderComp/><br/>
+            <NavComp /><br/>
+            <MyCarouselComp/><br/>
+            <ProductsComp/>
+            <Outlet/>
+
         </div>
     );
 };
