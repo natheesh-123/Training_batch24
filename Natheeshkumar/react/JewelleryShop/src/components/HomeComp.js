@@ -1,10 +1,10 @@
 import React from 'react'
 import NavComp from '../Layout/NavComp'
-
-const HomeComp = () => {
+function HomeComp() {
     return (
+        
         <div>
-            <div style={{
+           <div style={{
                 fontFamily: 'Arial, sans-serif',
                 lineHeight: '1.6',
                 color: '#333',
@@ -20,26 +20,19 @@ const HomeComp = () => {
                     marginBottom: '15px',
                     color: '#b8860b'
                 }}>
-                    Online Gold Jewellery Manufacturers in India
+                    Welcome to BNK Jewellers
                 </h2>
                 <p style={{ margin: '10px 0' }}>
                     BNK Gold is the Top Best Gold Jewellery Manufacturer in India. They are one of the leading 
                     online jewellery stores in India. Having in-depth knowledge in jewellery and antiques, Satva 
                     Gold has been offering some of the best and unique jewellery designs so far in the men’s and women’s 
-                    collections. We have an exquisite collection of mangal sutra, yellow gold jewellery, rose gold, 
-                    Italian, and antique jewellery.
+                    collections. 
                 </p>
                 <p style={{ margin: '10px 0' }}>
                     We visualise growing the brand in every possible aspect, including launching an online domain for 
                     gold jewellery shopping and focusing on customer needs. We have been customising jewellery and 
-                    designs on orders. Located in the hub of the gold market, Manek Chowk, we have now expanded online 
-                    to offer convenience to our customers with the goal of reaching PAN India. Satva Gold provides 18 
+                    designs on orders.Satva Gold provides 18 
                     carat (18ct), 22 carat (22ct), and 916 hallmark gold jewellery.
-                </p>
-                <p style={{ margin: '10px 0' }}>
-                    Alongside, we have even added Italian-concept and antique jewellery to our collection. We believe 
-                    in delivering the best in terms of quality. Customer relations are at the core of our mission to 
-                    build a strong Satva Gold family. Our marketing team has firmly established our online presence.
                 </p>
 
                 <div style={{ marginTop: '20px' }}>
@@ -90,8 +83,10 @@ const HomeComp = () => {
                 </div>
             </div>
         </div>
-    );
+
+
+
+    )
 }
 
-export default HomeComp;
-
+export default HomeComp

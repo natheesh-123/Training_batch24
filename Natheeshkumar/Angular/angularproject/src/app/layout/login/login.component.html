@@ -1,1 +1,14 @@
 <p>login works!</p>
+
+<div class="mainBox">
+
+<form class="desForm">
+    <label class="form-control">enter user id</label>
+<input type="text" name="uid" class="form-control"  [(ngModel)]="uid">
+<label class="form-control">enter user password</label>
+<input type="text" name="upass" class="form-control" [(ngModel)]="upass">
+<button type="button" (click)="checkUser()" class="btn btn-primarry mt-2" >login</button>
+
+</form >
+
+</div>

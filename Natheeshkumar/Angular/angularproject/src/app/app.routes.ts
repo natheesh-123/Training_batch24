@@ -11,6 +11,7 @@ import { ItemComponent } from './item/item.component';
 import { ProductDashComponent } from './crud/product-dash/product-dash.component';
 import { ProductAddComponent } from './crud/product-add/product-add.component';
 import { ProductEditComponent } from './crud/product-edit/product-edit.component';
+import { authGuard } from './shared/customguard/auth.guard';
 
 export const routes: Routes = [
     // 2.default routing
@@ -24,7 +25,7 @@ export const routes: Routes = [
 
 
     {
-        path: "maindashboard", component: MaindashboardComponent, children: [
+        path: "maindashboard", component: MaindashboardComponent, canActivate:[authGuard] ,children: [
 
             {path:"item",component:ItemComponent},
             {path:"productdash",component:ProductDashComponent},

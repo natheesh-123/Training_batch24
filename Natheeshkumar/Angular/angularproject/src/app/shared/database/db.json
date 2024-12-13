@@ -20,6 +20,13 @@
       "pprice": "500",
       "pcompany": "asus",
       "pquantity": "100"
+    },
+    {
+      "id": "18d0",
+      "pname": "",
+      "pprice": "",
+      "pcompany": "",
+      "pquantity": ""
     }
   ],
   "user": [
