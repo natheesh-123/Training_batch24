@@ -12,25 +12,33 @@ import { ActivatedRoute ,Router} from '@angular/router';
 })
 export class ProductEditComponent {
 
-id:any;
-prodData:any;
-constructor(private _actRoute:ActivatedRoute,private _dbObj:DbserviceService,private _router:Router){}
+constructor(public _route:ActivatedRoute , public _dbObj:DbserviceService, public _router:Router){}
 
-ngOnInIt(){
-  this._actRoute.params.subscribe((param:any)=>{
-    this.id=param.id;
-    this._dbObj.getSingleRecord("products",this.id).subscribe((res:any)=>{
-      this.prodData={...res}
+id:any;
+product:any;
+
+ngOnInit(){
+  console.log("Rendered");
+    this._route.params.subscribe((param:any)=>{
+      this.id = param.id;
     })
-  })
+    this.fetchProduct();
 }
 
+fetchProduct(){
+  this._dbObj.getSingleRecord("products", this.id).subscribe((res:any)=>{
+    console.log(res);
+    this.product = res;
+  });
+}
 
-addData(data:any){
-  this._dbObj.updateRecord("products",this.id,data).subscribe(()=>{
-    this._router.navigate(["/maindashboad/productadd"]);
+updateData(val:any){
+  console.log(val);
+  this._dbObj.putRecord("products", this.product.id, val).subscribe(()=>{
+    window.alert("Edit Successfull");
+    this.fetchProduct();
+    this._router.navigate(['/maindashboard/productdash']);
   })
-
 }
 
 }

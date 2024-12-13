@@ -28,7 +28,7 @@ export const routes: Routes = [
 
             {path:"item",component:ItemComponent},
             {path:"productdash",component:ProductDashComponent},
-            {path:"productdash",component:ProductDashComponent},
+            {path:"productedit",component:ProductEditComponent},
             {path:"productadd",component:ProductAddComponent},
             {path:"productedit/:id",component:ProductEditComponent},
 

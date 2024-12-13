@@ -49,9 +49,32 @@ import { RouterLink } from '@angular/router';
   styleUrl: './product-dash.component.css'
 })
 export class ProductDashComponent {
+  // constructor(public dbService: DbserviceService) { }
+
+  // products:any;
+
+  // ngOnInit() {
+  //   this.fetchData();
+  // }
+  // fetchData(){
+  //   this.dbService.getRecord('products').subscribe((res:any) => { 
+  //     // console.log(res); 
+  //     this.products = res;
+  //   });
+  // }
+
+  // deleteData(id:any){
+  //   if(window.confirm("Are you sure")){
+  //     this.dbService.deleteRecord('products', id).subscribe((res:any) => { 
+  //         window.alert("Deleted Successfully");
+  //         this.fetchData();
+  //     });
+  //   }
+  // }
+
   constructor(public dbService: DbserviceService) { }
 
-  products:any;
+  tableData:any;
 
   ngOnInit() {
     this.fetchData();
@@ -59,7 +82,7 @@ export class ProductDashComponent {
   fetchData(){
     this.dbService.getRecord('products').subscribe((res:any) => { 
       // console.log(res); 
-      this.products = res;
+      this.tableData = res;
     });
   }
 

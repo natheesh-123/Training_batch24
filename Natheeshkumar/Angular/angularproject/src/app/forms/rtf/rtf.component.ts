@@ -10,12 +10,27 @@ import { FormControl, FormGroup,ReactiveFormsModule, Validators } from '@angular
 })
 export class RtfComponent {
 
-  empForm:any
+  //empForm:any
+
+  // ngOnInit(){
+  //   this.empForm=new FormGroup({
+  //     fname:new FormControl('',[Validators.required,Validators.pattern('^[a-zA-z]{3,20}$')]),  
+  //     lname:new FormControl('',[Validators.required,Validators.pattern('^[a-zA-z]{3,20}$')])
+  //   })
+  // }
+
+  empForm:any;
 
   ngOnInit(){
-    this.empForm=new FormGroup({
-      fname:new FormControl('',[Validators.required,Validators.pattern('^[a-zA-z]{3,20}$')]),  
-      lname:new FormControl('',[Validators.required,Validators.pattern('^[a-zA-z]{3,20}$')])
+    this.empForm = new FormGroup({
+      fname:new FormControl("", [Validators.required, Validators.pattern("^[a-zA-Z]{3,20}$")]),
+      lname:new FormControl("", [Validators.required, Validators.pattern("^[a-zA-Z]{3,20}$")]),
+      term:new FormControl("",[Validators.requiredTrue])
     })
   }
+
+  getData(){
+    console.log(this.empForm.value);
+  }
+
 }

@@ -1,18 +1,25 @@
 {
   "products": [
     {
-      "id": "102",
-      "pname": "mouse",
-      "pprice": 50000,
-      "pcompany": "toshiba",
-      "pquantity": 15
+      "pname": "Laptop",
+      "pprice": "50000",
+      "pcompany": "realme",
+      "pquantity": "4",
+      "id": "101"
     },
     {
-      "id": "101",
-      "pname": "Laptop",
-      "pprice": 50000,
-      "pcompany": "Hp",
-      "pquantity": 10
+      "pname": "hp",
+      "pprice": "409000",
+      "pcompany": "lenovo",
+      "pquantity": "100",
+      "id": "3d1d"
+    },
+    {
+      "id": "9b9b",
+      "pname": "remote",
+      "pprice": "500",
+      "pcompany": "asus",
+      "pquantity": "100"
     }
   ],
   "user": [
