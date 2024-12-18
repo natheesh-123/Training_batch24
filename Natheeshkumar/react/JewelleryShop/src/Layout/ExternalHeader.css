@@ -13,13 +13,13 @@
     flex-direction: left;
 }
 
-img {
+.logo {
     height: 150px;
     width: 150px;
     border-radius: 70%;
     
 }
 
-.storelogo{
+.logotext{
     font-size: x-large;
 }

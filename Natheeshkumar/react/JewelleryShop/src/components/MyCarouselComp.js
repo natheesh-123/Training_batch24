@@ -8,7 +8,7 @@ const MyCarouselComp = () => {
             {/* <h2></h2> */}
             <Carousel>
                 <Carousel.Item>
-                    <img src={CommonData.ring} alt='imgring' height="100%" width='100%' objectFit="cover"/>
+                    <img src={CommonData.ring} alt='imgring' height="100px" width='100px' objectFit="cover"/>
 
                     <Carousel.Caption>
                         <h3>First slide label</h3>
@@ -17,7 +17,7 @@ const MyCarouselComp = () => {
                 </Carousel.Item>
                 <Carousel.Item>
 
-                   <img src={CommonData.ring} alt='imgring' height="100%" width='100%' objectFit="cover"/>
+                   <img src={CommonData.mycorousel} alt='imgring' height="400px" width='100%' objectFit="cover"/>
                     <Carousel.Caption>
                         <h3>Second slide label</h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
@@ -25,7 +25,7 @@ const MyCarouselComp = () => {
                 </Carousel.Item>
                 <Carousel.Item>
 
-                    <img src={CommonData.ring} alt='imgring' height="100%" width='100%' objectFit="cover"/>
+                    <img src={CommonData.ring} alt='imgring' height="100vh" width='100vw' objectFit="cover"/>
                     <Carousel.Caption>
                         <h3>Third slide label</h3>
                         <p>

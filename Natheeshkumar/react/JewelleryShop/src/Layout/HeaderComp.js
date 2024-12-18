@@ -6,8 +6,8 @@ import CommonData from '../shared/constant/constantData'
 const HeaderComp = () => {
     return (
         <div className="header">
-            <img src={CommonData.myshoplogo} alt="myshoplogo" />
-            <div>Jewellery</div>
+            <img src={CommonData.myshoplogo} alt="myshoplogo" className='logo' />
+            <div className='logotext'>Jewellery</div>
         </div>
     )
 }
