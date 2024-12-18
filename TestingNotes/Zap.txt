@@ -1,0 +1,203 @@
+18/12/2024
+
+WebDriver setup
+1.Install jdk latest version
+2.Install eclipse Latest edition
+3.Install WebDriver from files from selenium website.
+4.Configure Eclipse with WebDriver(selenium dependency latest).
+
+1.Create a maven project
+2.src/main/java folder - create a class (LoginPage) with main function under default package.
+3.Import selenium inside maven project.
+a)add dependency in pom.xml file
+b)add jars in the maven project.  
+
+Add jars - Download seleniumjar (from selenium website Java, extract zip file)
+Right click on maven project->build path->configure build path->In Libraries->Add external jars->Apply ->Apply & Save
+
+WebDriver driver = new ChromeDriver();
+		
+		driver.get("http://quiz-fe-test.hematitecorp.com/");
+		
+		WebDriver driver1 = new FirefoxDriver();
+		
+		driver1.get("http://quiz-fe-test.hematitecorp.com/");
+ 
+System.out.println(driver1.getTitle());
+		
+		System.out.println(driver1.getCurrentUrl());
+		
+		System.out.println(driver1.getPageSource());
+		
+		driver1.close();
+ 
+WebDriver driver = new EdgeDriver();
+ 
+
+driver1.navigate().to("http://hematiteweb.hematitecorp.com/");
+		
+		driver1.navigate().back();
+		
+		driver1.navigate().forward();
+		
+		driver1.navigate().refresh();
+		
+		driver1.manage().window().maximize();
+		
+		driver1.manage().window().minimize();
+		
+		driver1.manage().window().setSize(new Dimension(1024,768)); //import from selenium
+		
+//		driver1.switchTo().alert();
+		
+//		driver1.manage().getCookies();
+ 
+
+
+Task 1: Write down the testcases to test QuizApp url: is opening on multiple browsers,
+anlong with test its title, pagesource, currenturl, try to open a new website(any) in another tab, manage the window.
+ 
+Note: use multiple pre-defined functions for webdriver automation testing.
+
+
+Hello everyone, can you please tell me in covered tools where you are facing issues? so that in these three days i can 
+take your complete practice.
+ 
+Important is unit testcases and api testing. are able to write unit testcases with junit? api testing ?
+ 
+
+OWASP ZAP Tutorial : -
+Zed Attack Proxy(ZAP)
+Notes: https://www.zaproxy.org/getting-started/
+What is ZAP?
+A tool to find vulnerabilities in a Web Application.
+It is Open Source and completely FREE
+Cross Platform – Windows, Linux and Macs
+ 
+Features:
+1.Intercepting Proxy
+2.Spider
+3.Passive Scan
+4.Active Scan
+5.Fuzzing
+6.Reports
+7.ZAP Extensions
+8.Dynamic SSL Certificates
+ 
+https://www.zaproxy.org/download/
+ 
+
+2: ZAP Installing Dynamic SSL Certificate.
+Step 1: Open the OWASP ZAP Tool
+Step 2: Click on no, I do not want to persist the session of now
+             Click on Remember my choice.
+
+Step 3: Go to Tools options-----🡪Options--🡪Dynamic SSL Certificate -🡪Save it--🡪Select a folder🡪cancle/ok
+ 
+Step 3: Go to Tools options-----🡪Options--🡪Network->server certificate->Dynamic SSL Certificate -🡪Save it--🡪Select a folder🡪cancle/ok
+ 
+Step 4: Close the OWASP ZAP tool and open Firefox browser
+Go to setting------🡪privacy and security -----🡪view certificates
+---🡪import button-🡪select the folder🡪add certificate🡪trusted certificate click it🡪import it successfully 
+ 
+Same as JMeter import the certificates and you can import certificate for other browsers as well.
+This is necessary so that you can navigate to various applications/website in zap 
+
+1.Intercepting Proxy
+Browser -----------🡪OWASP ZAP-------------🡪Web Application.
+ 
+Step 1: Open OWASP ZAP Tool-----🡪At footer proxy port 8080 will be started,-🡪Go to options-----🡪tools----🡪Network ---🡪Local Proxy
+
+Configure on firefox ->network settings->Port 8081, HttpProxy : localhost
+ 
+http://quiz-fe-test.hematitecorp.com/
+ 
+admin@gmail.com 
+ 
+Admin@1234
+ 
+
+5: Configuration FoxProxy with Zap
+Step 1: open FireFox and go to network settings-------🡪 click to No proxy settings. (Make sure that no proxy settings in on). 
+Then open new tab on firefox and type Firefox add on, hit enter----🡪 search box : FoxyProxy Standard--🡪Add to FireFox.
+
+Now open OWASP ZAP Tool and check local proxy settings and as per that settings add data into FoxyProxy extension.
+ 
+Open FoxyProxy extension ----🡪options---🡪proxies---------🡪add ------🡪add data there.
+ 
+title : ZAPNetwork
+ 
+localhost
+ 
+8081
+ 
+
+Go to new tab of firefox browser now, open any website, parallel open OWASP ZAP tool
+ with that and see no recording is going on but, when you will enable the ZAPNetwork 
+from Firefox browser extension then, it will show that Network as well as start recordings also.
+ 
+Extension----🡪click on ZAPNetwork, Refresh that website again, then it will record all requests.
+
+Actually we are intercepting login request here,
+Now here, we are able to see the credential, and if we changed the password from zap tool then, 
+your credentials will be changed and you will not able to open the application, this is often
+ called Man-In-The-Middle-Attack.
+ 
+Note: Try for the application to which you have the permission , please don't try for anyone else account.
+
+
+Intercepting Specific Requests with OWASP ZAP
+ 
+Step 1 : Example: Intercepting a specific api request with zap tool.
+ 
+Step 1: Open Firefox browser----🡪enable FroxyProxy ZAP Network----🡪Open Zap Tool-----🡪Open hematite 
+quiz app on firefox-----🡪On zap tool, It will start recodring all requests.
+ 
+Click on questions tab : zap tool will record it
+Right Click on that request in zap tool-------🡪show in site tab--🡪right click in site tab on request🡪Break.
+
+Here If I chaged the String, then in the quiz app the question tab/ api will not work.
+And in information window, you will see new tab added that is breakpoint, where you can see all added breakpoints.
+ 
+Note: Do not perfornm practically it will change the settings in Quiz App.
+ 
+ 
+Manual Explore for Vulnerability Assessment in OWASP ZAP
+Step 1: Open zap -🡪click on Manual Explore option on the workbench
+ 
+Spidering a website with OWASP ZAP
+ 
+*Spidering allows you to launch an automated scan against an application.
+*Spider explores by findings links in html pages.
+It begins with set of URLs called Seeds
+The Spider then visits these URL’s, identifies all the hyperlinks in the pages.
+Add them to the list of URLs to visit
+The process continues recursively as long as new resources are found
+ 
+Step 1: Open zap tool
+Click on plus icon in the information window and click on spider.
+Click on new scan, spider dialog window
+ 
+spider:
+
+Exploring a website end to end
+
+Manual Explore, spdiring - exploring, active scan, automated scan
+ 
+1.Passive scan rules define what kind of vulnerabilities to check for in the background.
+2.Application Errors
+3.Coockie without samesite Attribute.
+4.Cookie Domain Script inclusion
+5.Information Disclosure in URL
+6.Information Disclosure in Comments
+ 
+ Open zap tool-----🡪tools-------🡪
+options----🡪passive scan rules--🡪
+Threshold = High---🡪fewer potantials issues will be raised
+                     Medium -🡪Avarage potential issues will be raised
+                     Low--🡪 maximum potential issues will be raised.
+options----🡪passive scanner--🡪 Here we can configure if needed, can set max alerts ranges etc
+
+Application which you have developed scan application end to end, take snapshort of progress
+scan of application generate report by using zap tool.
+ 
