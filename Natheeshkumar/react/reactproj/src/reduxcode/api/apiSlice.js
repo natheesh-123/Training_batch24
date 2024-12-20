@@ -18,7 +18,7 @@ await DELETE (`${API_URL}/${id}`);
 
 export const addData = createAsyncThunk("api/fetchData", async (newUser) => {
    // let res = await axios.post(API_URL, newUser);
-   let response =await POST(API_URL,newUser);
+   let res =await POST(API_URL,newUser);
     return res.data;
 });
 
