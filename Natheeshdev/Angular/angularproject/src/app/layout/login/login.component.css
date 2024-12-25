@@ -1,0 +1,13 @@
+.mainBox{
+    height: 100vh;
+    width: 100wh;
+display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.desForm{
+    border: 2px solid blue;
+    padding: 40px;
+    width: 400wh;
+}

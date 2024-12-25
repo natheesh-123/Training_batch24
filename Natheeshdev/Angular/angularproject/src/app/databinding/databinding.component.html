@@ -1,0 +1,9 @@
+<p>databinding works!</p>
+<strong>{{myName}}</strong><br>
+<strong>{{100+200}}</strong><br>
+<img [src] ="imgPath" [alt]="imgName" height="200px" width="200px"><br>
+<img [src] ="imgPath" [alt]="imgName" height="200px" width="200px"><br>
+
+<button type="button" (click)="greeting()">click on me</button><br>
+<button type="button" (click)="greetings('natheesh')">click on me again</button><br>
+<input type="text" name="items" [(ngModel)]="inputData">{{inputData}}

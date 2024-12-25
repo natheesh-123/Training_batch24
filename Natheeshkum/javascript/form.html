@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="./validation.js"></script>
+    <title>Document</title>
+</head>
+
+<body>
+
+
+    <form name="myform" onsubmit="return checkData()">
+
+        <div>
+            <label for="fname">enter full name</label>
+            <input type="text" name="name" id="fname">
+        </div>
+        <label>select your qualification</label>
+        <input type="checkbox" name="edu" value="sslc">SSLC
+        <input type="checkbox" name="edu" value="hsc">HSC
+        <input type="checkbox" name="edu" value="ug">UG
+        <input type="checkbox" name="edu" value="pg">PG
+        <div>
+
+        </div>
+
+        <button type="submit">submit</button>
+
+    </form>
+
+
+</body>
+
+</html>
