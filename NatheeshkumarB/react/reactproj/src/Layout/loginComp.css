@@ -1,0 +1,19 @@
+.loginContainer{
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width:100vw;
+
+}
+
+.loginform{
+    border: 2px solid black;
+    padding:30px;
+    width:300px;
+    border-radius: 3px;
+}
+h2{
+    justify-content: center;
+}
+
