@@ -1,0 +1,14 @@
+C:\learning\dotnet\C#\Task_Oops\Task_Oops\bin\Debug\net8.0\Task_Oops.exe
+C:\learning\dotnet\C#\Task_Oops\Task_Oops\bin\Debug\net8.0\Task_Oops.deps.json
+C:\learning\dotnet\C#\Task_Oops\Task_Oops\bin\Debug\net8.0\Task_Oops.runtimeconfig.json
+C:\learning\dotnet\C#\Task_Oops\Task_Oops\bin\Debug\net8.0\Task_Oops.dll
+C:\learning\dotnet\C#\Task_Oops\Task_Oops\bin\Debug\net8.0\Task_Oops.pdb
+C:\learning\dotnet\C#\Task_Oops\Task_Oops\obj\Debug\net8.0\Task_Oops.GeneratedMSBuildEditorConfig.editorconfig
+C:\learning\dotnet\C#\Task_Oops\Task_Oops\obj\Debug\net8.0\Task_Oops.AssemblyInfoInputs.cache
+C:\learning\dotnet\C#\Task_Oops\Task_Oops\obj\Debug\net8.0\Task_Oops.AssemblyInfo.cs
+C:\learning\dotnet\C#\Task_Oops\Task_Oops\obj\Debug\net8.0\Task_Oops.csproj.CoreCompileInputs.cache
+C:\learning\dotnet\C#\Task_Oops\Task_Oops\obj\Debug\net8.0\Task_Oops.dll
+C:\learning\dotnet\C#\Task_Oops\Task_Oops\obj\Debug\net8.0\refint\Task_Oops.dll
+C:\learning\dotnet\C#\Task_Oops\Task_Oops\obj\Debug\net8.0\Task_Oops.pdb
+C:\learning\dotnet\C#\Task_Oops\Task_Oops\obj\Debug\net8.0\Task_Oops.genruntimeconfig.cache
+C:\learning\dotnet\C#\Task_Oops\Task_Oops\obj\Debug\net8.0\ref\Task_Oops.dll

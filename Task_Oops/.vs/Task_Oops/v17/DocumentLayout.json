@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\learning\\dotnet\\C#\\Task_Oops\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16C1ABAC-4AD5-48DA-AE32-811BFA72102C}|Task_Oops\\Task_Oops.csproj|c:\\learning\\dotnet\\c#\\task_oops\\task_oops\\photobooktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C1ABAC-4AD5-48DA-AE32-811BFA72102C}|Task_Oops\\Task_Oops.csproj|solutionrelative:task_oops\\photobooktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C1ABAC-4AD5-48DA-AE32-811BFA72102C}|Task_Oops\\Task_Oops.csproj|c:\\learning\\dotnet\\c#\\task_oops\\task_oops\\photobook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C1ABAC-4AD5-48DA-AE32-811BFA72102C}|Task_Oops\\Task_Oops.csproj|solutionrelative:task_oops\\photobook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C1ABAC-4AD5-48DA-AE32-811BFA72102C}|Task_Oops\\Task_Oops.csproj|c:\\learning\\dotnet\\c#\\task_oops\\task_oops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C1ABAC-4AD5-48DA-AE32-811BFA72102C}|Task_Oops\\Task_Oops.csproj|solutionrelative:task_oops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhotoBook.cs",
+              "DocumentMoniker": "C:\\learning\\dotnet\\C#\\Task_Oops\\Task_Oops\\PhotoBook.cs",
+              "RelativeDocumentMoniker": "Task_Oops\\PhotoBook.cs",
+              "ToolTip": "C:\\learning\\dotnet\\C#\\Task_Oops\\Task_Oops\\PhotoBook.cs",
+              "RelativeToolTip": "Task_Oops\\PhotoBook.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:45:00.594Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PhotoBookTest.cs",
+              "DocumentMoniker": "C:\\learning\\dotnet\\C#\\Task_Oops\\Task_Oops\\PhotoBookTest.cs",
+              "RelativeDocumentMoniker": "Task_Oops\\PhotoBookTest.cs",
+              "ToolTip": "C:\\learning\\dotnet\\C#\\Task_Oops\\Task_Oops\\PhotoBookTest.cs",
+              "RelativeToolTip": "Task_Oops\\PhotoBookTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:43:17.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\learning\\dotnet\\C#\\Task_Oops\\Task_Oops\\Program.cs",
+              "RelativeDocumentMoniker": "Task_Oops\\Program.cs",
+              "ToolTip": "C:\\learning\\dotnet\\C#\\Task_Oops\\Task_Oops\\Program.cs",
+              "RelativeToolTip": "Task_Oops\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:04:35.552Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
