@@ -1,0 +1,14 @@
+C:\learning\dotnet\dotnet_workspace\oops\obj\Debug\net8.0\oops.GeneratedMSBuildEditorConfig.editorconfig
+C:\learning\dotnet\dotnet_workspace\oops\obj\Debug\net8.0\oops.AssemblyInfoInputs.cache
+C:\learning\dotnet\dotnet_workspace\oops\obj\Debug\net8.0\oops.AssemblyInfo.cs
+C:\learning\dotnet\dotnet_workspace\oops\obj\Debug\net8.0\oops.csproj.CoreCompileInputs.cache
+C:\learning\dotnet\dotnet_workspace\oops\bin\Debug\net8.0\oops.exe
+C:\learning\dotnet\dotnet_workspace\oops\bin\Debug\net8.0\oops.deps.json
+C:\learning\dotnet\dotnet_workspace\oops\bin\Debug\net8.0\oops.runtimeconfig.json
+C:\learning\dotnet\dotnet_workspace\oops\bin\Debug\net8.0\oops.dll
+C:\learning\dotnet\dotnet_workspace\oops\bin\Debug\net8.0\oops.pdb
+C:\learning\dotnet\dotnet_workspace\oops\obj\Debug\net8.0\oops.dll
+C:\learning\dotnet\dotnet_workspace\oops\obj\Debug\net8.0\refint\oops.dll
+C:\learning\dotnet\dotnet_workspace\oops\obj\Debug\net8.0\oops.pdb
+C:\learning\dotnet\dotnet_workspace\oops\obj\Debug\net8.0\oops.genruntimeconfig.cache
+C:\learning\dotnet\dotnet_workspace\oops\obj\Debug\net8.0\ref\oops.dll
