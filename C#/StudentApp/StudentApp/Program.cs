@@ -1,5 +1,6 @@
 ﻿
 
+using System;
 using System.Formats.Asn1;
 
 namespace StudentApp
@@ -8,7 +9,7 @@ namespace StudentApp
     {
         private static void Main(string[] args)
         {
-           // Console.WriteLine("Student application management sysyem");
+            // Console.WriteLine("Student application management sysyem");
 
 
             //Student s1= new Student();
@@ -29,43 +30,73 @@ namespace StudentApp
 
             //interface
 
-           // Student s1 = new Student();
-           // s1.rollnum = Student.incrementId();
-           // s1.pname = "natheesh";
-           // s1.gender = 'M';
+            // Student s1 = new Student();
+            // s1.rollnum = Student.incrementId();
+            // s1.pname = "natheesh";
+            // s1.gender = 'M';
 
-           // s1.city = "Dindigul";
-           // s1.state = "Tamilnadu";
-           // s1.zipcode = "624620";
+            // s1.city = "Dindigul";
+            // s1.state = "Tamilnadu";
+            // s1.zipcode = "624620";
 
-           // s1.showDetails();
+            // s1.showDetails();
 
-           //Console.WriteLine( s1.getAddress());
-           // Console.WriteLine(s1.showContact());
+            //Console.WriteLine( s1.getAddress());
+            // Console.WriteLine(s1.showContact());
 
-           // Console.ReadKey();
+            // Console.ReadKey();
 
 
 
             //BankAccount
 
-            StudentApp.Bank.BankAccount ba=new StudentApp.Bank.BankAccount();
+            /*  StudentApp.Bank.BankAccount ba=new StudentApp.Bank.BankAccount();
 
-            Console.WriteLine(ba.accno);
-            Console.WriteLine(ba.accname);
+              Console.WriteLine(ba.accno);
+              Console.WriteLine(ba.accname);
 
-            Console.WriteLine("current balance is :" + ba.cbalance);
+              Console.WriteLine("current balance is :" + ba.cbalance);
 
-            ba.deposit(20000);
-            //Console.WriteLine("after deposit current balance is :" + ba.cbalance);
-            Console.WriteLine("after deposit current balance is {0} {0}",ba.cbalance,ba.accno);
+              Console.WriteLine("Enter the amount to be deposit");
 
-            ba.withDraw(5000);
-            Console.WriteLine("after withdraw current balance is :" + ba.cbalance);
-
-
+              long damount=long.Parse(Console.ReadLine());
+              ba.deposit(damount);
+              //Console.WriteLine("after deposit current balance is :" + ba.cbalance);
+              Console.WriteLine("after deposit {0} current balance is  {1}",damount,ba.cbalance);
 
 
+              Console.WriteLine("Enter the amount to be withdraw");
+              long wamount = long.Parse(Console.ReadLine());
+              ba.withDraw(wamount);
+
+              // Console.WriteLine("after withdraw current balance is :" + ba.cbalance);
+              Console.WriteLine("after deposit {0} current balance is  {1}", wamount, ba.cbalance); */
+
+            //Console.WriteLine("enter your firstname");
+            //string firstname = Console.ReadLine();
+            //Console.WriteLine("enter your lastname");
+            //string lastname = Console.ReadLine();
+
+            //Console.WriteLine("enter your city");
+            //string city= Console.ReadLine();
+
+            //Console.WriteLine($"{firstname} {lastname} is comming from {city}");
+
+
+            //Console.WriteLine($"name : {firstname} {lastname}");
+            //Console.WriteLine($"city : {city}");
+
+
+            //StringFunctions s1 = new StringFunctions();
+            //s1.showMethods();
+            //s1.reverse("Dindigul");
+
+            //DateTimeMethods dt = new DateTimeMethods();
+            //dt.ShowTimeAndDate();
+
+
+            StringTasksF st = new StringTasksF();
+            st.fruitsadding();
 
 
 

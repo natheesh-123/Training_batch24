@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\learning\\dotnet\\C#\\StudentApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{37A5D1A4-71C1-45BB-877D-9B92CCAB9DB7}|StudentApp\\StudentApp.csproj|c:\\learning\\dotnet\\c#\\studentapp\\studentapp\\stringtasksf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A5D1A4-71C1-45BB-877D-9B92CCAB9DB7}|StudentApp\\StudentApp.csproj|solutionrelative:studentapp\\stringtasksf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A5D1A4-71C1-45BB-877D-9B92CCAB9DB7}|StudentApp\\StudentApp.csproj|c:\\learning\\dotnet\\c#\\studentapp\\studentapp\\bankaccount_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A5D1A4-71C1-45BB-877D-9B92CCAB9DB7}|StudentApp\\StudentApp.csproj|solutionrelative:studentapp\\bankaccount_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{37A5D1A4-71C1-45BB-877D-9B92CCAB9DB7}|StudentApp\\StudentApp.csproj|c:\\learning\\dotnet\\c#\\studentapp\\studentapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37A5D1A4-71C1-45BB-877D-9B92CCAB9DB7}|StudentApp\\StudentApp.csproj|solutionrelative:studentapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,20 +19,20 @@
       "RelativeMoniker": "D:0:0:{37A5D1A4-71C1-45BB-877D-9B92CCAB9DB7}|StudentApp\\StudentApp.csproj|solutionrelative:studentapp\\bankaccount_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37A5D1A4-71C1-45BB-877D-9B92CCAB9DB7}|StudentApp\\StudentApp.csproj|c:\\learning\\dotnet\\c#\\studentapp\\studentapp\\bankaccount_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37A5D1A4-71C1-45BB-877D-9B92CCAB9DB7}|StudentApp\\StudentApp.csproj|solutionrelative:studentapp\\bankaccount_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{37A5D1A4-71C1-45BB-877D-9B92CCAB9DB7}|StudentApp\\StudentApp.csproj|c:\\learning\\dotnet\\c#\\studentapp\\studentapp\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A5D1A4-71C1-45BB-877D-9B92CCAB9DB7}|StudentApp\\StudentApp.csproj|solutionrelative:studentapp\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37A5D1A4-71C1-45BB-877D-9B92CCAB9DB7}|StudentApp\\StudentApp.csproj|c:\\learning\\dotnet\\c#\\studentapp\\studentapp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37A5D1A4-71C1-45BB-877D-9B92CCAB9DB7}|StudentApp\\StudentApp.csproj|solutionrelative:studentapp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{37A5D1A4-71C1-45BB-877D-9B92CCAB9DB7}|StudentApp\\StudentApp.csproj|c:\\learning\\dotnet\\c#\\studentapp\\studentapp\\datetimemethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A5D1A4-71C1-45BB-877D-9B92CCAB9DB7}|StudentApp\\StudentApp.csproj|solutionrelative:studentapp\\datetimemethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{37A5D1A4-71C1-45BB-877D-9B92CCAB9DB7}|StudentApp\\StudentApp.csproj|c:\\learning\\dotnet\\c#\\studentapp\\studentapp\\icontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37A5D1A4-71C1-45BB-877D-9B92CCAB9DB7}|StudentApp\\StudentApp.csproj|solutionrelative:studentapp\\icontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37A5D1A4-71C1-45BB-877D-9B92CCAB9DB7}|StudentApp\\StudentApp.csproj|c:\\learning\\dotnet\\c#\\studentapp\\studentapp\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37A5D1A4-71C1-45BB-877D-9B92CCAB9DB7}|StudentApp\\StudentApp.csproj|solutionrelative:studentapp\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{37A5D1A4-71C1-45BB-877D-9B92CCAB9DB7}|StudentApp\\StudentApp.csproj|c:\\learning\\dotnet\\c#\\studentapp\\studentapp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A5D1A4-71C1-45BB-877D-9B92CCAB9DB7}|StudentApp\\StudentApp.csproj|solutionrelative:studentapp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{37A5D1A4-71C1-45BB-877D-9B92CCAB9DB7}|StudentApp\\StudentApp.csproj|c:\\learning\\dotnet\\c#\\studentapp\\studentapp\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,25 +45,39 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "DockedWidth": 222,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BankAccount_V2.cs",
-              "DocumentMoniker": "C:\\learning\\dotnet\\C#\\StudentApp\\StudentApp\\BankAccount_V2.cs",
-              "RelativeDocumentMoniker": "StudentApp\\BankAccount_V2.cs",
-              "ToolTip": "C:\\learning\\dotnet\\C#\\StudentApp\\StudentApp\\BankAccount_V2.cs*",
-              "RelativeToolTip": "StudentApp\\BankAccount_V2.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\learning\\dotnet\\C#\\StudentApp\\StudentApp\\Student.cs",
+              "RelativeDocumentMoniker": "StudentApp\\Student.cs",
+              "ToolTip": "C:\\learning\\dotnet\\C#\\StudentApp\\StudentApp\\Student.cs",
+              "RelativeToolTip": "StudentApp\\Student.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwF4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T11:20:46.468Z",
+              "WhenOpened": "2024-12-26T06:44:57.505Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "StringTasksF.cs",
+              "DocumentMoniker": "C:\\learning\\dotnet\\C#\\StudentApp\\StudentApp\\StringTasksF.cs",
+              "RelativeDocumentMoniker": "StudentApp\\StringTasksF.cs",
+              "ToolTip": "C:\\learning\\dotnet\\C#\\StudentApp\\StudentApp\\StringTasksF.cs",
+              "RelativeToolTip": "StudentApp\\StringTasksF.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T11:39:16.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "BankAccount_V1.cs",
               "DocumentMoniker": "C:\\learning\\dotnet\\C#\\StudentApp\\StudentApp\\BankAccount_V1.cs",
               "RelativeDocumentMoniker": "StudentApp\\BankAccount_V1.cs",
@@ -68,20 +90,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "IContact.cs",
               "DocumentMoniker": "C:\\learning\\dotnet\\C#\\StudentApp\\StudentApp\\IContact.cs",
               "RelativeDocumentMoniker": "StudentApp\\IContact.cs",
               "ToolTip": "C:\\learning\\dotnet\\C#\\StudentApp\\StudentApp\\IContact.cs",
               "RelativeToolTip": "StudentApp\\IContact.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T10:26:43.885Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\learning\\dotnet\\C#\\StudentApp\\StudentApp\\Program.cs",
+              "RelativeDocumentMoniker": "StudentApp\\Program.cs",
+              "ToolTip": "C:\\learning\\dotnet\\C#\\StudentApp\\StudentApp\\Program.cs",
+              "RelativeToolTip": "StudentApp\\Program.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAgwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T06:41:21.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DateTimeMethods.cs",
+              "DocumentMoniker": "C:\\learning\\dotnet\\C#\\StudentApp\\StudentApp\\DateTimeMethods.cs",
+              "RelativeDocumentMoniker": "StudentApp\\DateTimeMethods.cs",
+              "ToolTip": "C:\\learning\\dotnet\\C#\\StudentApp\\StudentApp\\DateTimeMethods.cs",
+              "RelativeToolTip": "StudentApp\\DateTimeMethods.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:10:57.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Address.cs",
               "DocumentMoniker": "C:\\learning\\dotnet\\C#\\StudentApp\\StudentApp\\Address.cs",
               "RelativeDocumentMoniker": "StudentApp\\Address.cs",
@@ -89,12 +137,24 @@
               "RelativeToolTip": "StudentApp\\Address.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T10:03:08.954Z",
+              "WhenOpened": "2024-12-26T10:03:08.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccount_V2.cs",
+              "DocumentMoniker": "C:\\learning\\dotnet\\C#\\StudentApp\\StudentApp\\BankAccount_V2.cs",
+              "RelativeDocumentMoniker": "StudentApp\\BankAccount_V2.cs",
+              "ToolTip": "C:\\learning\\dotnet\\C#\\StudentApp\\StudentApp\\BankAccount_V2.cs",
+              "RelativeToolTip": "StudentApp\\BankAccount_V2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T11:20:46.468Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "IPerson.cs",
               "DocumentMoniker": "C:\\learning\\dotnet\\C#\\StudentApp\\StudentApp\\IPerson.cs",
               "RelativeDocumentMoniker": "StudentApp\\IPerson.cs",
@@ -103,32 +163,6 @@
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T09:29:06.829Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\learning\\dotnet\\C#\\StudentApp\\StudentApp\\Student.cs",
-              "RelativeDocumentMoniker": "StudentApp\\Student.cs",
-              "ToolTip": "C:\\learning\\dotnet\\C#\\StudentApp\\StudentApp\\Student.cs",
-              "RelativeToolTip": "StudentApp\\Student.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAiwF4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T06:44:57.505Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\learning\\dotnet\\C#\\StudentApp\\StudentApp\\Program.cs",
-              "RelativeDocumentMoniker": "StudentApp\\Program.cs",
-              "ToolTip": "C:\\learning\\dotnet\\C#\\StudentApp\\StudentApp\\Program.cs",
-              "RelativeToolTip": "StudentApp\\Program.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAgwDUAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T06:41:21.6Z",
               "EditorCaption": ""
             }
           ]
