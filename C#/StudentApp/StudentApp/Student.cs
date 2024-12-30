@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace StudentApp
 {
-    class Student :IPerson,Address,IContact
+    class Student : IPerson, Address, IContact
     {
         //public int rollnum {  get; set; }
         //public string sname {  get; set; }
@@ -19,6 +19,7 @@ namespace StudentApp
         //{
         //  return  ++id;
         //}
+
 
         //public void displayDetails(int rollnum=0,string sname="",char gender=' ')
         //{
@@ -52,9 +53,10 @@ namespace StudentApp
         public string city { get; set; }
         public string zipcode { get; set; }
 
-            //IContact
+        //IContact
         public string mobile { get ; set ; }
         public string email { get; set ; }
+       
 
         public static int id = 0;
         public static int incrementId()
@@ -81,7 +83,7 @@ namespace StudentApp
         }
 
 
-        //Address
+       // Address
 
         public string getAddress()
         {
@@ -93,5 +95,7 @@ namespace StudentApp
         {
             return $"mobile :{mobile} email:{email} ";
         }
+
+       
     }
 }
