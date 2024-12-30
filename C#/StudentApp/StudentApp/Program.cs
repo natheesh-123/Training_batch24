@@ -96,7 +96,14 @@ namespace StudentApp
 
 
             StringTasksF st = new StringTasksF();
-            st.fruitsadding();
+            //st.fruitsadding();
+
+            string input = Console.ReadLine();
+
+            st.capitalizeWords(input);
+            //char character=(char.Parse)(Console.ReadLine();
+            char character = char.Parse(Console.ReadLine());
+            st.countCharacterOccurrences(input, character);
 
 
 
