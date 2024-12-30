@@ -1,0 +1,14 @@
+C:\learning\dotnet\C#\StudentApp\StudentApp\bin\Debug\net8.0\StudentApp.exe
+C:\learning\dotnet\C#\StudentApp\StudentApp\bin\Debug\net8.0\StudentApp.deps.json
+C:\learning\dotnet\C#\StudentApp\StudentApp\bin\Debug\net8.0\StudentApp.runtimeconfig.json
+C:\learning\dotnet\C#\StudentApp\StudentApp\bin\Debug\net8.0\StudentApp.dll
+C:\learning\dotnet\C#\StudentApp\StudentApp\bin\Debug\net8.0\StudentApp.pdb
+C:\learning\dotnet\C#\StudentApp\StudentApp\obj\Debug\net8.0\StudentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\learning\dotnet\C#\StudentApp\StudentApp\obj\Debug\net8.0\StudentApp.AssemblyInfoInputs.cache
+C:\learning\dotnet\C#\StudentApp\StudentApp\obj\Debug\net8.0\StudentApp.AssemblyInfo.cs
+C:\learning\dotnet\C#\StudentApp\StudentApp\obj\Debug\net8.0\StudentApp.csproj.CoreCompileInputs.cache
+C:\learning\dotnet\C#\StudentApp\StudentApp\obj\Debug\net8.0\StudentApp.dll
+C:\learning\dotnet\C#\StudentApp\StudentApp\obj\Debug\net8.0\refint\StudentApp.dll
+C:\learning\dotnet\C#\StudentApp\StudentApp\obj\Debug\net8.0\StudentApp.pdb
+C:\learning\dotnet\C#\StudentApp\StudentApp\obj\Debug\net8.0\StudentApp.genruntimeconfig.cache
+C:\learning\dotnet\C#\StudentApp\StudentApp\obj\Debug\net8.0\ref\StudentApp.dll

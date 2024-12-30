@@ -1,0 +1,14 @@
+C:\learning\dotnet\C#\DataStructures\DataStructures\bin\Debug\net8.0\DataStructures.exe
+C:\learning\dotnet\C#\DataStructures\DataStructures\bin\Debug\net8.0\DataStructures.deps.json
+C:\learning\dotnet\C#\DataStructures\DataStructures\bin\Debug\net8.0\DataStructures.runtimeconfig.json
+C:\learning\dotnet\C#\DataStructures\DataStructures\bin\Debug\net8.0\DataStructures.dll
+C:\learning\dotnet\C#\DataStructures\DataStructures\bin\Debug\net8.0\DataStructures.pdb
+C:\learning\dotnet\C#\DataStructures\DataStructures\obj\Debug\net8.0\DataStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\learning\dotnet\C#\DataStructures\DataStructures\obj\Debug\net8.0\DataStructures.AssemblyInfoInputs.cache
+C:\learning\dotnet\C#\DataStructures\DataStructures\obj\Debug\net8.0\DataStructures.AssemblyInfo.cs
+C:\learning\dotnet\C#\DataStructures\DataStructures\obj\Debug\net8.0\DataStructures.csproj.CoreCompileInputs.cache
+C:\learning\dotnet\C#\DataStructures\DataStructures\obj\Debug\net8.0\DataStructures.dll
+C:\learning\dotnet\C#\DataStructures\DataStructures\obj\Debug\net8.0\refint\DataStructures.dll
+C:\learning\dotnet\C#\DataStructures\DataStructures\obj\Debug\net8.0\DataStructures.pdb
+C:\learning\dotnet\C#\DataStructures\DataStructures\obj\Debug\net8.0\DataStructures.genruntimeconfig.cache
+C:\learning\dotnet\C#\DataStructures\DataStructures\obj\Debug\net8.0\ref\DataStructures.dll
