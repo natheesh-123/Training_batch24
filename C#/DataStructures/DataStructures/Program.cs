@@ -10,18 +10,18 @@ namespace DataStructures
         {
             /* string Tasks */
 
-            StringFruitAddingTask1 st = new StringFruitAddingTask1();
-            st.fruitsadding();
+            //StringFruitAddingTask1 st = new StringFruitAddingTask1();
+            //st.fruitsadding();
 
-            StringCapitalizeWordsTask2 st2 = new StringCapitalizeWordsTask2();
+            //StringCapitalizeWordsTask2 st2 = new StringCapitalizeWordsTask2();
 
-            Console.WriteLine("enter a sting to captitalize");
-            string input = Console.ReadLine();
-            st2.capitalizeWords(input);
+            //Console.WriteLine("enter a sting to captitalize");
+            //string input = Console.ReadLine();
+            //st2.capitalizeWords(input);
 
-            Console.WriteLine("which char occurance yo want");
-            char character = char.Parse(Console.ReadLine());
-            st2.countCharacterOccurrences(input, character);
+            //Console.WriteLine("which char occurance yo want");
+            //char character = char.Parse(Console.ReadLine());
+            //st2.countCharacterOccurrences(input, character);
 
 
 
@@ -32,6 +32,9 @@ namespace DataStructures
             //task1.fruitShop();
 
             // CommonService commonService = new CommonService();
+
+            EmployeeListTask2 t2 = new EmployeeListTask2();
+            t2.EmployeeDetails();
 
         }
 

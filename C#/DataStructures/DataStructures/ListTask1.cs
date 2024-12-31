@@ -24,6 +24,7 @@ namespace DataStructures
           
             while (true)
             {
+                string s = "a";
                 cs1.menu();
                 Console.WriteLine("  ");
                 Console.WriteLine("what menu you want :");
@@ -31,6 +32,7 @@ namespace DataStructures
                 // int totMenu = 4;
 
                 // if (totMenu <= 4)
+
 
                 switch (input)
                 {
