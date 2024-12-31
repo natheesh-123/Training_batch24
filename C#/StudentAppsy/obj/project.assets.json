@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\natheeshkumar.b\\.nuget\\packages\\": {},
+    "C:\\Users\\ELCOT\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\learning\\dotnet\\C#\\StudentApp\\StudentApp\\StudentApp.csproj",
+      "projectUniqueName": "D:\\Training-CP\\C#\\StudentAppsy\\StudentApp.csproj",
       "projectName": "StudentApp",
-      "projectPath": "C:\\learning\\dotnet\\C#\\StudentApp\\StudentApp\\StudentApp.csproj",
-      "packagesPath": "C:\\Users\\natheeshkumar.b\\.nuget\\packages\\",
-      "outputPath": "C:\\learning\\dotnet\\C#\\StudentApp\\StudentApp\\obj\\",
+      "projectPath": "D:\\Training-CP\\C#\\StudentAppsy\\StudentApp.csproj",
+      "packagesPath": "C:\\Users\\ELCOT\\.nuget\\packages\\",
+      "outputPath": "D:\\Training-CP\\C#\\StudentAppsy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\natheeshkumar.b\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ELCOT\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
