@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\learning\\dotnet\\C#\\DataStructures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B03DFE30-0E33-45F2-AAC5-17FBEF0D801C}|DataStructures\\DataStructures.csproj|c:\\learning\\dotnet\\c#\\datastructures\\datastructures\\listtask1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03DFE30-0E33-45F2-AAC5-17FBEF0D801C}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\listtask1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03DFE30-0E33-45F2-AAC5-17FBEF0D801C}|DataStructures\\DataStructures.csproj|c:\\learning\\dotnet\\c#\\datastructures\\datastructures\\commonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03DFE30-0E33-45F2-AAC5-17FBEF0D801C}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\commonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03DFE30-0E33-45F2-AAC5-17FBEF0D801C}|DataStructures\\DataStructures.csproj|c:\\learning\\dotnet\\c#\\datastructures\\datastructures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03DFE30-0E33-45F2-AAC5-17FBEF0D801C}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03DFE30-0E33-45F2-AAC5-17FBEF0D801C}|DataStructures\\DataStructures.csproj|c:\\learning\\dotnet\\c#\\datastructures\\datastructures\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03DFE30-0E33-45F2-AAC5-17FBEF0D801C}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 222,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommonService.cs",
+              "DocumentMoniker": "C:\\learning\\dotnet\\C#\\DataStructures\\DataStructures\\CommonService.cs",
+              "RelativeDocumentMoniker": "DataStructures\\CommonService.cs",
+              "ToolTip": "C:\\learning\\dotnet\\C#\\DataStructures\\DataStructures\\CommonService.cs",
+              "RelativeToolTip": "DataStructures\\CommonService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:04:07.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListTask1.cs",
+              "DocumentMoniker": "C:\\learning\\dotnet\\C#\\DataStructures\\DataStructures\\ListTask1.cs",
+              "RelativeDocumentMoniker": "DataStructures\\ListTask1.cs",
+              "ToolTip": "C:\\learning\\dotnet\\C#\\DataStructures\\DataStructures\\ListTask1.cs",
+              "RelativeToolTip": "DataStructures\\ListTask1.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAwwI4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:18:34.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "List.cs",
+              "DocumentMoniker": "C:\\learning\\dotnet\\C#\\DataStructures\\DataStructures\\List.cs",
+              "RelativeDocumentMoniker": "DataStructures\\List.cs",
+              "ToolTip": "C:\\learning\\dotnet\\C#\\DataStructures\\DataStructures\\List.cs",
+              "RelativeToolTip": "DataStructures\\List.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:02:03.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\learning\\dotnet\\C#\\DataStructures\\DataStructures\\Program.cs",
+              "RelativeDocumentMoniker": "DataStructures\\Program.cs",
+              "ToolTip": "C:\\learning\\dotnet\\C#\\DataStructures\\DataStructures\\Program.cs",
+              "RelativeToolTip": "DataStructures\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:01:29.213Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
