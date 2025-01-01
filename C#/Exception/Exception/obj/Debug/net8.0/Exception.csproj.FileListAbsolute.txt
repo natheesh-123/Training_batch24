@@ -1,0 +1,15 @@
+C:\learning\Changepond_training\C#\Exception\Exception\bin\Debug\net8.0\Exception.exe
+C:\learning\Changepond_training\C#\Exception\Exception\bin\Debug\net8.0\Exception.deps.json
+C:\learning\Changepond_training\C#\Exception\Exception\bin\Debug\net8.0\Exception.runtimeconfig.json
+C:\learning\Changepond_training\C#\Exception\Exception\bin\Debug\net8.0\Exception.dll
+C:\learning\Changepond_training\C#\Exception\Exception\bin\Debug\net8.0\Exception.pdb
+C:\learning\Changepond_training\C#\Exception\Exception\obj\Debug\net8.0\Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\learning\Changepond_training\C#\Exception\Exception\obj\Debug\net8.0\Exception.AssemblyInfoInputs.cache
+C:\learning\Changepond_training\C#\Exception\Exception\obj\Debug\net8.0\Exception.AssemblyInfo.cs
+C:\learning\Changepond_training\C#\Exception\Exception\obj\Debug\net8.0\Exception.csproj.CoreCompileInputs.cache
+C:\learning\Changepond_training\C#\Exception\Exception\obj\Debug\net8.0\Exception.sourcelink.json
+C:\learning\Changepond_training\C#\Exception\Exception\obj\Debug\net8.0\Exception.dll
+C:\learning\Changepond_training\C#\Exception\Exception\obj\Debug\net8.0\refint\Exception.dll
+C:\learning\Changepond_training\C#\Exception\Exception\obj\Debug\net8.0\Exception.pdb
+C:\learning\Changepond_training\C#\Exception\Exception\obj\Debug\net8.0\Exception.genruntimeconfig.cache
+C:\learning\Changepond_training\C#\Exception\Exception\obj\Debug\net8.0\ref\Exception.dll

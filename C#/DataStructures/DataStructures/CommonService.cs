@@ -42,7 +42,14 @@ namespace DataStructures
             {
                 Console.WriteLine(employee.empId + " " + employee.empName + " " + employee.empRole);
             }
+
+            //for(int i = 0; i < emp.Count; i++)
+            //{
+            //    Console.WriteLine(emp[i].empId + " " +emp[i].empName +" " + emp[i].empRole);
+            //}
         }
+
+       
 
 
     }

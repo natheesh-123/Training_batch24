@@ -1,0 +1,15 @@
+C:\learning\Changepond_training\C#\FileAndLinq\FileAndLinq\bin\Debug\net8.0\FileAndLinq.exe
+C:\learning\Changepond_training\C#\FileAndLinq\FileAndLinq\bin\Debug\net8.0\FileAndLinq.deps.json
+C:\learning\Changepond_training\C#\FileAndLinq\FileAndLinq\bin\Debug\net8.0\FileAndLinq.runtimeconfig.json
+C:\learning\Changepond_training\C#\FileAndLinq\FileAndLinq\bin\Debug\net8.0\FileAndLinq.dll
+C:\learning\Changepond_training\C#\FileAndLinq\FileAndLinq\bin\Debug\net8.0\FileAndLinq.pdb
+C:\learning\Changepond_training\C#\FileAndLinq\FileAndLinq\obj\Debug\net8.0\FileAndLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\learning\Changepond_training\C#\FileAndLinq\FileAndLinq\obj\Debug\net8.0\FileAndLinq.AssemblyInfoInputs.cache
+C:\learning\Changepond_training\C#\FileAndLinq\FileAndLinq\obj\Debug\net8.0\FileAndLinq.AssemblyInfo.cs
+C:\learning\Changepond_training\C#\FileAndLinq\FileAndLinq\obj\Debug\net8.0\FileAndLinq.csproj.CoreCompileInputs.cache
+C:\learning\Changepond_training\C#\FileAndLinq\FileAndLinq\obj\Debug\net8.0\FileAndLinq.sourcelink.json
+C:\learning\Changepond_training\C#\FileAndLinq\FileAndLinq\obj\Debug\net8.0\FileAndLinq.dll
+C:\learning\Changepond_training\C#\FileAndLinq\FileAndLinq\obj\Debug\net8.0\refint\FileAndLinq.dll
+C:\learning\Changepond_training\C#\FileAndLinq\FileAndLinq\obj\Debug\net8.0\FileAndLinq.pdb
+C:\learning\Changepond_training\C#\FileAndLinq\FileAndLinq\obj\Debug\net8.0\FileAndLinq.genruntimeconfig.cache
+C:\learning\Changepond_training\C#\FileAndLinq\FileAndLinq\obj\Debug\net8.0\ref\FileAndLinq.dll

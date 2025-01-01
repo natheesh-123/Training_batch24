@@ -1,9 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.Design;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 
 namespace DataStructures
 {
@@ -78,13 +80,40 @@ namespace DataStructures
             service.displayEmployeeList(emp);
         }
 
+        public void addEmployee()
+        {
+            // Console.WriteLine("which fruit to be addd :");
+            //string givenFrt = Console.ReadLine();
+            int getId=service.getInputInt("give emp id for check if this id exist or not ")
 
-        public 
+            string s1 = service.getInputString("which employee to be add");
+            bool isAvailable = false;
+          
+            for (int i = 0; i <emp.Count; i++)
+            {
+                if (emp[i].empId==getId)
+                {
+
+                    Console.WriteLine("the empId is already present give unique id");
+                    isAvailable = true;
+                    break;
+                }
+
+
+
+            }
+            if (!isAvailable)
+            {
+                emp.Add(new Employee(id, name, role));
+                Console.WriteLine("the given element is added");
+                // dispalyFruit();
+            }
+
+            //  fruitShop();
+
+        }
+
+
     }
 
-
-
-
-
-    }
 }
