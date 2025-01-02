@@ -109,9 +109,17 @@ namespace StudentApp
 
             /*Arrays*/
 
-            ArrayFunctions af = new ArrayFunctions();
+            //ArrayFunctions af = new ArrayFunctions();
             //af.Arrayfn();
-            af.fruitArray();
+
+            NumArrayTask1 task1 = new NumArrayTask1();
+            task1.ArrayFindNum();
+
+            //FruitArrayTask3 task3 = new FruitArrayTask3();
+
+            //string[] fruits = { "Apple", "Orange", "Mango", "Cherry" };
+
+            //task3.fruitArray(fruits);
 
 
         }
