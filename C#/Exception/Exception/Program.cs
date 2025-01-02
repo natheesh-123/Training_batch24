@@ -26,8 +26,8 @@ namespace Dotnet
             //d = obj.Subtract;
             //d(30, 20);
 
-            //Subscriber s1 = new Subscriber();
-            //  s1.doWork();
+            Subscriber s1 = new Subscriber();
+             s1.doWork();
 
 ;
            

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Training-CP\\C#\\Exception\\Exception\\Exception.csproj": {}
+    "C:\\learning\\Changepond_training\\C#\\Exception\\Exception\\Exception.csproj": {}
   },
   "projects": {
-    "D:\\Training-CP\\C#\\Exception\\Exception\\Exception.csproj": {
+    "C:\\learning\\Changepond_training\\C#\\Exception\\Exception\\Exception.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Training-CP\\C#\\Exception\\Exception\\Exception.csproj",
+        "projectUniqueName": "C:\\learning\\Changepond_training\\C#\\Exception\\Exception\\Exception.csproj",
         "projectName": "Exception",
-        "projectPath": "D:\\Training-CP\\C#\\Exception\\Exception\\Exception.csproj",
-        "packagesPath": "C:\\Users\\ELCOT\\.nuget\\packages\\",
-        "outputPath": "D:\\Training-CP\\C#\\Exception\\Exception\\obj\\",
+        "projectPath": "C:\\learning\\Changepond_training\\C#\\Exception\\Exception\\Exception.csproj",
+        "packagesPath": "C:\\Users\\natheeshkumar.b\\.nuget\\packages\\",
+        "outputPath": "C:\\learning\\Changepond_training\\C#\\Exception\\Exception\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ELCOT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\natheeshkumar.b\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\learning\\Changepond_training\\C#\\EFcore\\MyDemoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA7BBDE-0C06-4A0C-8A77-357DC149EC8B}|MyDemoApp\\MyDemoApp.csproj|c:\\learning\\changepond_training\\c#\\efcore\\mydemoapp\\mydemoapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA7BBDE-0C06-4A0C-8A77-357DC149EC8B}|MyDemoApp\\MyDemoApp.csproj|solutionrelative:mydemoapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 222,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\learning\\Changepond_training\\C#\\EFcore\\MyDemoApp\\MyDemoApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MyDemoApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\learning\\Changepond_training\\C#\\EFcore\\MyDemoApp\\MyDemoApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MyDemoApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T12:29:56.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
