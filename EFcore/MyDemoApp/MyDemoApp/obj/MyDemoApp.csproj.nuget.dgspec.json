@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Training-CP\\C#\\DataStructures\\DataStructures\\DataStructures.csproj": {}
+    "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\MyDemoApp.csproj": {}
   },
   "projects": {
-    "D:\\Training-CP\\C#\\DataStructures\\DataStructures\\DataStructures.csproj": {
+    "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\MyDemoApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Training-CP\\C#\\DataStructures\\DataStructures\\DataStructures.csproj",
-        "projectName": "DataStructures",
-        "projectPath": "D:\\Training-CP\\C#\\DataStructures\\DataStructures\\DataStructures.csproj",
+        "projectUniqueName": "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\MyDemoApp.csproj",
+        "projectName": "MyDemoApp",
+        "projectPath": "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\MyDemoApp.csproj",
         "packagesPath": "C:\\Users\\ELCOT\\.nuget\\packages\\",
-        "outputPath": "D:\\Training-CP\\C#\\DataStructures\\DataStructures\\obj\\",
+        "outputPath": "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,24 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -61,6 +79,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
