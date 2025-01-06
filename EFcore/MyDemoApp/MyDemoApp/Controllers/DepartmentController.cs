@@ -34,7 +34,35 @@ namespace MyDemoApp.Controllers
             return RedirectToAction("Index");
         }
 
-         
- 
+
+        public async Task<IActionResult> Update(int id)
+        {
+
+            Department dept = await context.Department.Where(e => e.Id == id).FirstOrDefaultAsync();
+            return View(dept);
+        }
+
+
+        [HttpPost]
+        public async Task<IActionResult> Update(Department dept)
+        {
+            context.Update(dept);
+            await context.SaveChangesAsync();
+            return RedirectToAction("Index");
+
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var dept = new Department() { Id = id };
+            context.Remove(dept);
+            await context.SaveChangesAsync();
+            return RedirectToAction("Index");
+
+        }
+
+
+
     }
 }

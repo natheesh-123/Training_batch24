@@ -19,10 +19,11 @@
             <th>@dept.Id</th>
             <th>@dept.Name</th>
             <th>
-                <a class="btn btn-sm btn-primary" asp-action="Update">Update</a>
+                <a class="btn btn-sm btn-primary" asp-action="Update"
+                asp-route-id="@dept.Id">Update</a>
             </th>
             <th>
-                <form asp-action="Delete">
+                <form method="post" asp-action="Delete" asp-route-id="@dept.Id">
                     <button type="submit" class="btn btn-sm btn-danger">Delete</button>
                 </form>
             </th>
@@ -30,3 +31,22 @@
     }
 
 </table>
+
+
+@* @foreach (Department dept in Model)
+{
+    <tr>
+        <th>@dept.Id</th>
+        <th>@dept.Name</th>
+        <th>
+            <a class="btn btn-sm btn-primary" asp-action="Update"
+               asp-route-id="@dept.Id">Update</a>
+        </th>
+        <th>
+            <form method="post" asp-action="Delete" asp-route-id="@dept.Id">
+                <button type="submit" class="btn btn-sm btn-danger">Delete</button>
+            </form>
+        </th>
+    </tr>
+}
+*@
