@@ -2,11 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\MyDemoApp",
-    "\\MyDemoApp\\Controllers",
-    "\\MyDemoApp\\Properties",
-    "\\MyDemoApp\\Views",
-    "\\MyDemoApp\\Views\\Home"
+    "\\MyDemoApp\\Models"
   ],
-  "SelectedNode": "\\MyDemoApp\\Views\\Home\\Privacy.cshtml",
+  "SelectedNode": "\\MyDemoApp\\MyDemoApp.csproj.user",
   "PreviewInSolutionExplorer": false
 }

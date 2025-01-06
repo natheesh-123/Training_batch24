@@ -1,0 +1,9 @@
+C:\learning\Changepond_training\EFcore\MyWebApp\MyWebApp\obj\Debug\net8.0\MyWebApp.csproj.AssemblyReference.cache
+C:\learning\Changepond_training\EFcore\MyWebApp\MyWebApp\obj\Debug\net8.0\MyWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\learning\Changepond_training\EFcore\MyWebApp\MyWebApp\obj\Debug\net8.0\MyWebApp.AssemblyInfoInputs.cache
+C:\learning\Changepond_training\EFcore\MyWebApp\MyWebApp\obj\Debug\net8.0\MyWebApp.AssemblyInfo.cs
+C:\learning\Changepond_training\EFcore\MyWebApp\MyWebApp\obj\Debug\net8.0\MyWebApp.csproj.CoreCompileInputs.cache
+C:\learning\Changepond_training\EFcore\MyWebApp\MyWebApp\obj\Debug\net8.0\MyWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\learning\Changepond_training\EFcore\MyWebApp\MyWebApp\obj\Debug\net8.0\MyWebApp.RazorAssemblyInfo.cache
+C:\learning\Changepond_training\EFcore\MyWebApp\MyWebApp\obj\Debug\net8.0\MyWebApp.RazorAssemblyInfo.cs
+C:\learning\Changepond_training\EFcore\MyWebApp\MyWebApp\obj\Debug\net8.0\MyWebApp.sourcelink.json
