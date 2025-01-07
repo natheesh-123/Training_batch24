@@ -25,9 +25,10 @@
             <th>@emp.Id</th>
             <th>@emp.Name</th>
             <th>@emp.Designation</th>
-            <th>@emp.DepartmentId</th>
+            @* <th>@emp.DepartmentId</th> *@
+            <th>@emp.Department.Name</th>
             <th>
-                <a class="btn btn-sm btn-primary" asp-action="Update"
+                <a class="btn btn-sm btn-primary" asp-action="Eupdate"
                    asp-route-id="@emp.Id">Update</a>
             </th>
             <th>

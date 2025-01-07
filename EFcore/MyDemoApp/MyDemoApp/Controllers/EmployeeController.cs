@@ -14,7 +14,7 @@ namespace MyDemoApp.Controllers
         }
         public IActionResult Eindex()
         {
-            return View(context.Employee.AsNoTracking());
+            return View(context.Employee.Include(s=>s.Department));
         }
         public IActionResult Ecreate()
         {
@@ -30,20 +30,20 @@ namespace MyDemoApp.Controllers
             context.SaveChanges();
             return RedirectToAction("Eindex");
         }
-        public async Task<IActionResult> Update(int id)
+        public async Task<IActionResult> Eupdate(int id)
         {
             List<SelectListItem> dept = new List<SelectListItem>();
             dept = context.Department.Select(x => new SelectListItem { Text = x.Name, Value = x.Id.ToString() }).ToList();
 
             ViewBag.Department = dept;
 
-            Employee Emp = await context.Employee.Where(e => e.Id == id).FirstOrDefaultAsync();
-            return View(Emp);
+            Employee emp = await context.Employee.Where(e => e.Id == id).FirstOrDefaultAsync();
+            return View(emp);
         }
 
         [HttpPost]
-        public async Task<IActionResult> Update(Employee emp)
-        {
+        public async Task<IActionResult> Eupdate(Employee emp)
+        { 
             context.Update(emp);
             await context.SaveChangesAsync();
             return RedirectToAction("Eindex");
