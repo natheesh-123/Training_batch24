@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Training-CP\\EFcore\\MyBestStoreApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{173A1AE2-F8D0-44D6-B651-DA37DA2D6090}|MyBestStoreApplication\\MyBestStoreApplication.csproj|d:\\training-cp\\efcore\\mybeststoreapplication\\mybeststoreapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{173A1AE2-F8D0-44D6-B651-DA37DA2D6090}|MyBestStoreApplication\\MyBestStoreApplication.csproj|solutionrelative:mybeststoreapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Training-CP\\EFcore\\MyBestStoreApplication\\MyBestStoreApplication\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyBestStoreApplication\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{173A1AE2-F8D0-44D6-B651-DA37DA2D6090}|MyBestStoreApplication\\MyBestStoreApplication.csproj|d:\\training-cp\\efcore\\mybeststoreapplication\\mybeststoreapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{173A1AE2-F8D0-44D6-B651-DA37DA2D6090}|MyBestStoreApplication\\MyBestStoreApplication.csproj|solutionrelative:mybeststoreapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Training-CP\\EFcore\\MyBestStoreApplication\\MyBestStoreApplication\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyBestStoreApplication\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{173A1AE2-F8D0-44D6-B651-DA37DA2D6090}|MyBestStoreApplication\\MyBestStoreApplication.csproj|d:\\training-cp\\efcore\\mybeststoreapplication\\mybeststoreapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{173A1AE2-F8D0-44D6-B651-DA37DA2D6090}|MyBestStoreApplication\\MyBestStoreApplication.csproj|solutionrelative:mybeststoreapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Training-CP\\EFcore\\MyBestStoreApplication\\MyBestStoreApplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyBestStoreApplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 222,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Training-CP\\EFcore\\MyBestStoreApplication\\MyBestStoreApplication\\Program.cs",
               "RelativeDocumentMoniker": "MyBestStoreApplication\\Program.cs",
               "ToolTip": "D:\\Training-CP\\EFcore\\MyBestStoreApplication\\MyBestStoreApplication\\Program.cs",
               "RelativeToolTip": "MyBestStoreApplication\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-04T08:39:35.568Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Training-CP\\EFcore\\MyBestStoreApplication\\MyBestStoreApplication\\appsettings.json",
               "RelativeDocumentMoniker": "MyBestStoreApplication\\appsettings.json",
               "ToolTip": "D:\\Training-CP\\EFcore\\MyBestStoreApplication\\MyBestStoreApplication\\appsettings.json",
               "RelativeToolTip": "MyBestStoreApplication\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-01-04T08:39:29.778Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Training-CP\\EFcore\\MyBestStoreApplication\\MyBestStoreApplication\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MyBestStoreApplication\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\Training-CP\\EFcore\\MyBestStoreApplication\\MyBestStoreApplication\\Controllers\\HomeController.cs",
               "RelativeToolTip": "MyBestStoreApplication\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAYwCAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-04T07:22:38.558Z",
               "EditorCaption": ""

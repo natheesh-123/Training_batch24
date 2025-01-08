@@ -24,6 +24,7 @@ Explanation:
 }
 }
 
+
 •  "ConnectionStrings": This section contains connection strings for your application.
 
 •  "DefaultConnection": This is the name of the connection string. It can be referenced in your code to retrieve the actual connection string value.
