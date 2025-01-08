@@ -3,68 +3,84 @@
   "WorkspaceRootPath": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|c:\\learning\\changepond_training\\efcore\\mydemoapp\\mydemoapp\\views\\employee\\eupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|solutionrelative:mydemoapp\\views\\employee\\eupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|c:\\learning\\changepond_training\\efcore\\mydemoapp\\mydemoapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|solutionrelative:mydemoapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|c:\\learning\\changepond_training\\efcore\\mydemoapp\\mydemoapp\\models\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|solutionrelative:mydemoapp\\models\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|c:\\learning\\changepond_training\\efcore\\mydemoapp\\mydemoapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|solutionrelative:mydemoapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|c:\\learning\\changepond_training\\efcore\\mydemoapp\\mydemoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|solutionrelative:mydemoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|c:\\learning\\changepond_training\\efcore\\mydemoapp\\mydemoapp\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|solutionrelative:mydemoapp\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|c:\\learning\\changepond_training\\efcore\\mydemoapp\\mydemoapp\\views\\employee\\eindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|solutionrelative:mydemoapp\\views\\employee\\eindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|c:\\learning\\changepond_training\\efcore\\mydemoapp\\mydemoapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|solutionrelative:mydemoapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|c:\\learning\\changepond_training\\efcore\\mydemoapp\\mydemoapp\\views\\employee\\ecreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|solutionrelative:mydemoapp\\views\\employee\\ecreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|c:\\learning\\changepond_training\\efcore\\mydemoapp\\mydemoapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|solutionrelative:mydemoapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|c:\\learning\\changepond_training\\efcore\\mydemoapp\\mydemoapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|solutionrelative:mydemoapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|c:\\learning\\changepond_training\\efcore\\mydemoapp\\mydemoapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|solutionrelative:mydemoapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|c:\\learning\\changepond_training\\efcore\\mydemoapp\\mydemoapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|solutionrelative:mydemoapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|c:\\learning\\changepond_training\\efcore\\mydemoapp\\mydemoapp\\views\\employee\\eupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|solutionrelative:mydemoapp\\views\\employee\\eupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|c:\\learning\\changepond_training\\efcore\\mydemoapp\\mydemoapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|solutionrelative:mydemoapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|c:\\learning\\changepond_training\\efcore\\mydemoapp\\mydemoapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|solutionrelative:mydemoapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|c:\\learning\\changepond_training\\efcore\\mydemoapp\\mydemoapp\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|solutionrelative:mydemoapp\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|c:\\learning\\changepond_training\\efcore\\mydemoapp\\mydemoapp\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|solutionrelative:mydemoapp\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|c:\\learning\\changepond_training\\efcore\\mydemoapp\\mydemoapp\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|solutionrelative:mydemoapp\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|c:\\learning\\changepond_training\\efcore\\mydemoapp\\mydemoapp\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|solutionrelative:mydemoapp\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|c:\\learning\\changepond_training\\efcore\\mydemoapp\\mydemoapp\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|solutionrelative:mydemoapp\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|c:\\learning\\changepond_training\\efcore\\mydemoapp\\mydemoapp\\models\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|solutionrelative:mydemoapp\\models\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|c:\\learning\\changepond_training\\efcore\\mydemoapp\\mydemoapp\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|solutionrelative:mydemoapp\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|c:\\learning\\changepond_training\\efcore\\mydemoapp\\mydemoapp\\models\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|solutionrelative:mydemoapp\\models\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|c:\\learning\\changepond_training\\efcore\\mydemoapp\\mydemoapp\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|solutionrelative:mydemoapp\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|c:\\learning\\changepond_training\\efcore\\mydemoapp\\mydemoapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|solutionrelative:mydemoapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|c:\\learning\\changepond_training\\efcore\\mydemoapp\\mydemoapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|solutionrelative:mydemoapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|c:\\learning\\changepond_training\\efcore\\mydemoapp\\mydemoapp\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|solutionrelative:mydemoapp\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|c:\\learning\\changepond_training\\efcore\\mydemoapp\\mydemoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|solutionrelative:mydemoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|c:\\learning\\changepond_training\\efcore\\mydemoapp\\mydemoapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|solutionrelative:mydemoapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|c:\\learning\\changepond_training\\efcore\\mydemoapp\\mydemoapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BD345C-7112-4948-98AC-30DA2AF0645D}|MyDemoApp\\MyDemoApp.csproj|solutionrelative:mydemoapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,115 +90,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 222,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Program.cs",
-              "RelativeDocumentMoniker": "MyDemoApp\\Program.cs",
-              "ToolTip": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Program.cs",
-              "RelativeToolTip": "MyDemoApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T11:36:58.943Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "MyDemoApp\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "MyDemoApp\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T06:53:17.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\appsettings.json",
-              "RelativeDocumentMoniker": "MyDemoApp\\appsettings.json",
-              "ToolTip": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\appsettings.json",
-              "RelativeToolTip": "MyDemoApp\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-07T07:04:35.303Z",
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "MyDemoApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "MyDemoApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T12:35:31.417Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Ecreate.cshtml",
-              "DocumentMoniker": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Employee\\Ecreate.cshtml",
-              "RelativeDocumentMoniker": "MyDemoApp\\Views\\Employee\\Ecreate.cshtml",
-              "ToolTip": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Employee\\Ecreate.cshtml",
-              "RelativeToolTip": "MyDemoApp\\Views\\Employee\\Ecreate.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MyDemoApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "MyDemoApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-06T11:22:16.12Z",
+              "WhenOpened": "2025-01-08T12:35:23.082Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Eupdate.cshtml",
-              "DocumentMoniker": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Employee\\Eupdate.cshtml",
-              "RelativeDocumentMoniker": "MyDemoApp\\Views\\Employee\\Eupdate.cshtml",
-              "ToolTip": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Employee\\Eupdate.cshtml",
-              "RelativeToolTip": "MyDemoApp\\Views\\Employee\\Eupdate.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyDemoApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MyDemoApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-06T11:55:03.286Z",
+              "WhenOpened": "2025-01-08T12:35:16.76Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MyDemoApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MyDemoApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAwwCQAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-06T10:46:54.299Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CompanyContext.cs",
-              "DocumentMoniker": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Models\\CompanyContext.cs",
-              "RelativeDocumentMoniker": "MyDemoApp\\Models\\CompanyContext.cs",
-              "ToolTip": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Models\\CompanyContext.cs",
-              "RelativeToolTip": "MyDemoApp\\Models\\CompanyContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T10:57:05.148Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "MyDemoApp\\Models\\Employee.cs",
               "ToolTip": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Models\\Employee.cs",
               "RelativeToolTip": "MyDemoApp\\Models\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-06T12:50:44.251Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyDemoApp\\Views\\Department\\Index.cshtml",
+              "ToolTip": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "MyDemoApp\\Views\\Department\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T06:27:37.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Department\\Update.cshtml",
               "RelativeDocumentMoniker": "MyDemoApp\\Views\\Department\\Update.cshtml",
@@ -195,46 +172,176 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
+              "Title": "Ecreate.cshtml",
+              "DocumentMoniker": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Employee\\Ecreate.cshtml",
+              "RelativeDocumentMoniker": "MyDemoApp\\Views\\Employee\\Ecreate.cshtml",
+              "ToolTip": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Employee\\Ecreate.cshtml",
+              "RelativeToolTip": "MyDemoApp\\Views\\Employee\\Ecreate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T11:22:16.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyDemoApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyDemoApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAiwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T10:46:54.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Eindex.cshtml",
               "DocumentMoniker": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Employee\\Eindex.cshtml",
               "RelativeDocumentMoniker": "MyDemoApp\\Views\\Employee\\Eindex.cshtml",
               "ToolTip": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Employee\\Eindex.cshtml",
               "RelativeToolTip": "MyDemoApp\\Views\\Employee\\Eindex.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABsAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-06T07:00:16.441Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Information.cs",
+              "DocumentMoniker": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Models\\Information.cs",
+              "RelativeDocumentMoniker": "MyDemoApp\\Models\\Information.cs",
+              "ToolTip": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Models\\Information.cs",
+              "RelativeToolTip": "MyDemoApp\\Models\\Information.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T11:58:31.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Department\\Create.cshtml",
+              "RelativeDocumentMoniker": "MyDemoApp\\Views\\Department\\Create.cshtml",
+              "ToolTip": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Department\\Create.cshtml",
+              "RelativeToolTip": "MyDemoApp\\Views\\Department\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T06:27:34.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "CompanyContext.cs",
+              "DocumentMoniker": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Models\\CompanyContext.cs",
+              "RelativeDocumentMoniker": "MyDemoApp\\Models\\CompanyContext.cs",
+              "ToolTip": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Models\\CompanyContext.cs",
+              "RelativeToolTip": "MyDemoApp\\Models\\CompanyContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T10:57:05.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Eupdate.cshtml",
+              "DocumentMoniker": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Employee\\Eupdate.cshtml",
+              "RelativeDocumentMoniker": "MyDemoApp\\Views\\Employee\\Eupdate.cshtml",
+              "ToolTip": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Employee\\Eupdate.cshtml",
+              "RelativeToolTip": "MyDemoApp\\Views\\Employee\\Eupdate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T11:55:03.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Department.cs",
               "DocumentMoniker": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Models\\Department.cs",
               "RelativeDocumentMoniker": "MyDemoApp\\Models\\Department.cs",
               "ToolTip": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Models\\Department.cs",
               "RelativeToolTip": "MyDemoApp\\Models\\Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-06T11:38:37.28Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MyDemoApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MyDemoApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T07:00:39.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "MyDemoApp\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "MyDemoApp\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwDgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T06:53:17.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "DepartmentController.cs",
               "DocumentMoniker": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Controllers\\DepartmentController.cs",
               "RelativeDocumentMoniker": "MyDemoApp\\Controllers\\DepartmentController.cs",
               "ToolTip": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Controllers\\DepartmentController.cs",
               "RelativeToolTip": "MyDemoApp\\Controllers\\DepartmentController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowCsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-06T06:25:21.824Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Program.cs",
+              "RelativeDocumentMoniker": "MyDemoApp\\Program.cs",
+              "ToolTip": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Program.cs",
+              "RelativeToolTip": "MyDemoApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:36:58.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\appsettings.json",
+              "RelativeDocumentMoniker": "MyDemoApp\\appsettings.json",
+              "ToolTip": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\appsettings.json",
+              "RelativeToolTip": "MyDemoApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-07T07:04:35.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "MyDemoApp\\Models\\ErrorViewModel.cs",
@@ -242,44 +349,7 @@
               "RelativeToolTip": "MyDemoApp\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T06:49:45.049Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Department\\Index.cshtml",
-              "RelativeDocumentMoniker": "MyDemoApp\\Views\\Department\\Index.cshtml",
-              "ToolTip": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Department\\Index.cshtml",
-              "RelativeToolTip": "MyDemoApp\\Views\\Department\\Index.cshtml",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAwwB4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-06T06:27:37.713Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Department\\Create.cshtml",
-              "RelativeDocumentMoniker": "MyDemoApp\\Views\\Department\\Create.cshtml",
-              "ToolTip": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Department\\Create.cshtml",
-              "RelativeToolTip": "MyDemoApp\\Views\\Department\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-06T06:27:34.745Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "MyDemoApp\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "MyDemoApp\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T07:00:39.641Z"
+              "WhenOpened": "2025-01-07T06:49:45.049Z"
             }
           ]
         }
