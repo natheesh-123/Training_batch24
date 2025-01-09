@@ -1,30 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\learning\\Changepond_training\\ASP.NET\\Makemytrip\\",
+  "WorkspaceRootPath": "D:\\Training-CP\\ASP.NET\\Makemytrip\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C90CF883-0045-4985-B7B5-C28F1D841AA8}|Makemytrip\\Makemytrip.csproj|c:\\learning\\changepond_training\\asp.net\\makemytrip\\makemytrip\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C90CF883-0045-4985-B7B5-C28F1D841AA8}|Makemytrip\\Makemytrip.csproj|solutionrelative:makemytrip\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Training-CP\\ASP.NET\\Makemytrip\\Makemytrip\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Makemytrip\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C90CF883-0045-4985-B7B5-C28F1D841AA8}|Makemytrip\\Makemytrip.csproj|c:\\learning\\changepond_training\\asp.net\\makemytrip\\makemytrip\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C90CF883-0045-4985-B7B5-C28F1D841AA8}|Makemytrip\\Makemytrip.csproj|solutionrelative:makemytrip\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Training-CP\\ASP.NET\\Makemytrip\\Makemytrip\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Makemytrip\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C90CF883-0045-4985-B7B5-C28F1D841AA8}|Makemytrip\\Makemytrip.csproj|c:\\learning\\changepond_training\\asp.net\\makemytrip\\makemytrip\\views\\home\\updatereservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C90CF883-0045-4985-B7B5-C28F1D841AA8}|Makemytrip\\Makemytrip.csproj|solutionrelative:makemytrip\\views\\home\\updatereservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Training-CP\\ASP.NET\\Makemytrip\\Makemytrip\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Makemytrip\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C90CF883-0045-4985-B7B5-C28F1D841AA8}|Makemytrip\\Makemytrip.csproj|c:\\learning\\changepond_training\\asp.net\\makemytrip\\makemytrip\\views\\home\\addreservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C90CF883-0045-4985-B7B5-C28F1D841AA8}|Makemytrip\\Makemytrip.csproj|solutionrelative:makemytrip\\views\\home\\addreservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Training-CP\\ASP.NET\\Makemytrip\\Makemytrip\\Views\\Home\\updatereservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Makemytrip\\Views\\Home\\updatereservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C90CF883-0045-4985-B7B5-C28F1D841AA8}|Makemytrip\\Makemytrip.csproj|c:\\learning\\changepond_training\\asp.net\\makemytrip\\makemytrip\\views\\home\\getreservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C90CF883-0045-4985-B7B5-C28F1D841AA8}|Makemytrip\\Makemytrip.csproj|solutionrelative:makemytrip\\views\\home\\getreservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Training-CP\\ASP.NET\\Makemytrip\\Makemytrip\\Views\\Home\\GetReservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Makemytrip\\Views\\Home\\GetReservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C90CF883-0045-4985-B7B5-C28F1D841AA8}|Makemytrip\\Makemytrip.csproj|c:\\learning\\changepond_training\\asp.net\\makemytrip\\makemytrip\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C90CF883-0045-4985-B7B5-C28F1D841AA8}|Makemytrip\\Makemytrip.csproj|solutionrelative:makemytrip\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Training-CP\\ASP.NET\\Makemytrip\\Makemytrip\\Views\\Home\\AddReservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Makemytrip\\Views\\Home\\AddReservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Training-CP\\ASP.NET\\Makemytrip\\Makemytrip\\Models\\Reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Makemytrip\\Models\\Reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,30 +38,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 222,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "updatereservation.cshtml",
-              "DocumentMoniker": "C:\\learning\\Changepond_training\\ASP.NET\\Makemytrip\\Makemytrip\\Views\\Home\\updatereservation.cshtml",
-              "RelativeDocumentMoniker": "Makemytrip\\Views\\Home\\updatereservation.cshtml",
-              "ToolTip": "C:\\learning\\Changepond_training\\ASP.NET\\Makemytrip\\Makemytrip\\Views\\Home\\updatereservation.cshtml",
-              "RelativeToolTip": "Makemytrip\\Views\\Home\\updatereservation.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-08T11:35:26.709Z",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Training-CP\\ASP.NET\\Makemytrip\\Makemytrip\\appsettings.json",
+              "RelativeDocumentMoniker": "Makemytrip\\appsettings.json",
+              "ToolTip": "D:\\Training-CP\\ASP.NET\\Makemytrip\\Makemytrip\\appsettings.json",
+              "RelativeToolTip": "Makemytrip\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-08T19:21:20.495Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\learning\\Changepond_training\\ASP.NET\\Makemytrip\\Makemytrip\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "D:\\Training-CP\\ASP.NET\\Makemytrip\\Makemytrip\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Makemytrip\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\learning\\Changepond_training\\ASP.NET\\Makemytrip\\Makemytrip\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Training-CP\\ASP.NET\\Makemytrip\\Makemytrip\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Makemytrip\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-08T11:33:35.023Z",
               "EditorCaption": ""
@@ -66,53 +70,62 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "GetReservation.cshtml",
-              "DocumentMoniker": "C:\\learning\\Changepond_training\\ASP.NET\\Makemytrip\\Makemytrip\\Views\\Home\\GetReservation.cshtml",
+              "DocumentMoniker": "D:\\Training-CP\\ASP.NET\\Makemytrip\\Makemytrip\\Views\\Home\\GetReservation.cshtml",
               "RelativeDocumentMoniker": "Makemytrip\\Views\\Home\\GetReservation.cshtml",
-              "ToolTip": "C:\\learning\\Changepond_training\\ASP.NET\\Makemytrip\\Makemytrip\\Views\\Home\\GetReservation.cshtml",
+              "ToolTip": "D:\\Training-CP\\ASP.NET\\Makemytrip\\Makemytrip\\Views\\Home\\GetReservation.cshtml",
               "RelativeToolTip": "Makemytrip\\Views\\Home\\GetReservation.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-08T11:32:43.053Z",
+              "WhenOpened": "2025-01-08T11:32:43.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddReservation.cshtml",
+              "DocumentMoniker": "D:\\Training-CP\\ASP.NET\\Makemytrip\\Makemytrip\\Views\\Home\\AddReservation.cshtml",
+              "RelativeDocumentMoniker": "Makemytrip\\Views\\Home\\AddReservation.cshtml",
+              "ToolTip": "D:\\Training-CP\\ASP.NET\\Makemytrip\\Makemytrip\\Views\\Home\\AddReservation.cshtml",
+              "RelativeToolTip": "Makemytrip\\Views\\Home\\AddReservation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T11:31:15.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "D:\\Training-CP\\ASP.NET\\Makemytrip\\Makemytrip\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "Makemytrip\\Models\\Reservation.cs",
+              "ToolTip": "D:\\Training-CP\\ASP.NET\\Makemytrip\\Makemytrip\\Models\\Reservation.cs",
+              "RelativeToolTip": "Makemytrip\\Models\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T11:17:30.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Training-CP\\ASP.NET\\Makemytrip\\Makemytrip\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Makemytrip\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Training-CP\\ASP.NET\\Makemytrip\\Makemytrip\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Makemytrip\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAuwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T11:16:09.157Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AddReservation.cshtml",
-              "DocumentMoniker": "C:\\learning\\Changepond_training\\ASP.NET\\Makemytrip\\Makemytrip\\Views\\Home\\AddReservation.cshtml",
-              "RelativeDocumentMoniker": "Makemytrip\\Views\\Home\\AddReservation.cshtml",
-              "ToolTip": "C:\\learning\\Changepond_training\\ASP.NET\\Makemytrip\\Makemytrip\\Views\\Home\\AddReservation.cshtml",
-              "RelativeToolTip": "Makemytrip\\Views\\Home\\AddReservation.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Title": "updatereservation.cshtml",
+              "DocumentMoniker": "D:\\Training-CP\\ASP.NET\\Makemytrip\\Makemytrip\\Views\\Home\\updatereservation.cshtml",
+              "RelativeDocumentMoniker": "Makemytrip\\Views\\Home\\updatereservation.cshtml",
+              "ToolTip": "D:\\Training-CP\\ASP.NET\\Makemytrip\\Makemytrip\\Views\\Home\\updatereservation.cshtml",
+              "RelativeToolTip": "Makemytrip\\Views\\Home\\updatereservation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-08T11:31:15.668Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Reservation.cs",
-              "DocumentMoniker": "C:\\learning\\Changepond_training\\ASP.NET\\Makemytrip\\Makemytrip\\Models\\Reservation.cs",
-              "RelativeDocumentMoniker": "Makemytrip\\Models\\Reservation.cs",
-              "ToolTip": "C:\\learning\\Changepond_training\\ASP.NET\\Makemytrip\\Makemytrip\\Models\\Reservation.cs",
-              "RelativeToolTip": "Makemytrip\\Models\\Reservation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T11:17:30.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\learning\\Changepond_training\\ASP.NET\\Makemytrip\\Makemytrip\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Makemytrip\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\learning\\Changepond_training\\ASP.NET\\Makemytrip\\Makemytrip\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Makemytrip\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAAwIAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T11:16:09.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T11:35:26.709Z"
             }
           ]
         }

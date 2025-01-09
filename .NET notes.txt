@@ -1,0 +1,31 @@
+
+dotnet tool install -g dotnet-ef
+dotnet tool install --local dotnet-ef
+
+dotnet ef --version
+
+
+dotnet add package Microsoft.EntityFrameworkCore
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+dotnet add package Microsoft.EntityFrameworkCore.Tools
+		(or)
+do it in nuget package manager
+
+
+appsettings.json
+
+"ConnectionStrings": {
+  "DefaultConnection": "Server=localhost;Database=CompanyDB;Trusted_Connection=True;"
+}
+
+
+program.cs (or) startup.cs
+
+builder.Services.AddDbContext<CompanyDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+
+ceate migration:  dotnet ef migrations add CompanyDB --project "C:\Projects\MySolution\MyApp.Data\demo.csproj"
+update migration:  dotnet ef database update --project "C:\Projects\MySolution\MyApp.Data\demo.csproj"
+
+

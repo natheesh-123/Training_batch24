@@ -1,3 +1,6 @@
+dotnet ef migrations add CompanyDB --project "C:\Projects\MySolution\MyApp.Data\demo.csproj"
+dotnet ef database update --project "C:\Projects\MySolution\MyApp.Data\demo.csproj"
+
 
 Yes, both the Program.cs file and the appsettings.json file play important roles in connecting your ASP.NET Core application to a database. Let's break down what each file does:
 

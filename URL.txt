@@ -1,0 +1,20 @@
+git revert: https://chatgpt.com/c/676b84a0-bbbc-800d-afc9-02d981ecfea4
+default access modifier c#: https://chatgpt.com/c/676d8fef-1048-800d-a8d6-fa688a20e434
+
+React Project Pre-req: https://chatgpt.com/c/6772ccd3-2df4-800d-ad75-ce2576ffdc60
+React Folder-structure: https://chatgpt.com/c/67741429-997c-800d-9ab1-eb8f852071e3
+react folder structure 2: https://chatgpt.com/c/67741429-997c-800d-9ab1-eb8f852071e3
+delete github : https://chatgpt.com/c/67756739-5c88-800d-8329-8bd9350fa4fe
+
+.NET 8 :  https://chatgpt.com/c/677d5c98-7d44-800d-8383-426bd436d5cb
+
+----------------------------------------------------------------------------------------
+.........Testing.............
+
+1.types: https://www.geeksforgeeks.org/types-software-testing/
+2.
+
+
+fullstack
+
+.net_react  :  https://chatgpt.com/c/677eaaa6-6c70-800d-9943-aabfc64ae649
