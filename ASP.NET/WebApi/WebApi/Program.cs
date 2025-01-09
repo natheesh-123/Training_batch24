@@ -7,6 +7,11 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddSingleton<IRepository, Repository>();
 
+builder.Services.AddDbContext<>(options => options.UseSqlServer(
+    builder.Configuration.GetConnectionString("DefaultConnection")));
+
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

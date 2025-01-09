@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\Training-CP\\EFcore\\MyDemoApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyDemoApp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\Models\\CompanyContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyDemoApp\\Models\\CompanyContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyDemoApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Employee\\Eindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyDemoApp\\Views\\Employee\\Eindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -47,10 +59,6 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyDemoApp\\Views\\Department\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\Models\\CompanyContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyDemoApp\\Models\\CompanyContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Employee\\Eupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyDemoApp\\Views\\Employee\\Eupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -71,14 +79,6 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyDemoApp\\Controllers\\DepartmentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyDemoApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyDemoApp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyDemoApp\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -90,59 +90,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 222,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "MyDemoApp\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "MyDemoApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-08T12:35:16.76Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "MyDemoApp\\Models\\Employee.cs",
-              "ToolTip": "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\Models\\Employee.cs",
-              "RelativeToolTip": "MyDemoApp\\Models\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T12:50:44.251Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Department\\Index.cshtml",
-              "RelativeDocumentMoniker": "MyDemoApp\\Views\\Department\\Index.cshtml",
-              "ToolTip": "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Department\\Index.cshtml",
-              "RelativeToolTip": "MyDemoApp\\Views\\Department\\Index.cshtml",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-06T06:27:37.713Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Department\\Update.cshtml",
-              "RelativeDocumentMoniker": "MyDemoApp\\Views\\Department\\Update.cshtml",
-              "ToolTip": "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Department\\Update.cshtml",
-              "RelativeToolTip": "MyDemoApp\\Views\\Department\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-06T06:29:09.521Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\appsettings.json",
+              "RelativeDocumentMoniker": "MyDemoApp\\appsettings.json",
+              "ToolTip": "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\appsettings.json",
+              "RelativeToolTip": "MyDemoApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-07T07:04:35.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\Program.cs",
+              "RelativeDocumentMoniker": "MyDemoApp\\Program.cs",
+              "ToolTip": "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\Program.cs",
+              "RelativeToolTip": "MyDemoApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:36:58.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompanyContext.cs",
+              "DocumentMoniker": "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\Models\\CompanyContext.cs",
+              "RelativeDocumentMoniker": "MyDemoApp\\Models\\CompanyContext.cs",
+              "ToolTip": "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\Models\\CompanyContext.cs",
+              "RelativeToolTip": "MyDemoApp\\Models\\CompanyContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T10:57:05.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Eindex.cshtml",
               "DocumentMoniker": "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Employee\\Eindex.cshtml",
               "RelativeDocumentMoniker": "MyDemoApp\\Views\\Employee\\Eindex.cshtml",
@@ -155,7 +146,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "MyDemoApp\\Models\\Employee.cs",
+              "ToolTip": "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\Models\\Employee.cs",
+              "RelativeToolTip": "MyDemoApp\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T12:50:44.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Department\\Update.cshtml",
+              "RelativeDocumentMoniker": "MyDemoApp\\Views\\Department\\Update.cshtml",
+              "ToolTip": "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Department\\Update.cshtml",
+              "RelativeToolTip": "MyDemoApp\\Views\\Department\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T06:29:09.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyDemoApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MyDemoApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T12:35:16.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "MyDemoApp\\Views\\Home\\Privacy.cshtml",
@@ -167,7 +194,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyDemoApp\\Views\\Department\\Index.cshtml",
+              "ToolTip": "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "MyDemoApp\\Views\\Department\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T06:27:37.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "MyDemoApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -179,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Ecreate.cshtml",
               "DocumentMoniker": "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Employee\\Ecreate.cshtml",
               "RelativeDocumentMoniker": "MyDemoApp\\Views\\Employee\\Ecreate.cshtml",
@@ -191,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MyDemoApp\\Views\\Shared\\_Layout.cshtml",
@@ -203,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Information.cs",
               "DocumentMoniker": "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\Models\\Information.cs",
               "RelativeDocumentMoniker": "MyDemoApp\\Models\\Information.cs",
@@ -215,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Department\\Create.cshtml",
               "RelativeDocumentMoniker": "MyDemoApp\\Views\\Department\\Create.cshtml",
@@ -227,19 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CompanyContext.cs",
-              "DocumentMoniker": "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\Models\\CompanyContext.cs",
-              "RelativeDocumentMoniker": "MyDemoApp\\Models\\CompanyContext.cs",
-              "ToolTip": "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\Models\\CompanyContext.cs",
-              "RelativeToolTip": "MyDemoApp\\Models\\CompanyContext.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T10:57:05.148Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Eupdate.cshtml",
               "DocumentMoniker": "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\Views\\Employee\\Eupdate.cshtml",
               "RelativeDocumentMoniker": "MyDemoApp\\Views\\Employee\\Eupdate.cshtml",
@@ -251,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Department.cs",
               "DocumentMoniker": "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\Models\\Department.cs",
               "RelativeDocumentMoniker": "MyDemoApp\\Models\\Department.cs",
@@ -263,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MyDemoApp\\Controllers\\HomeController.cs",
@@ -275,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "MyDemoApp\\Controllers\\EmployeeController.cs",
@@ -287,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "DepartmentController.cs",
               "DocumentMoniker": "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\Controllers\\DepartmentController.cs",
               "RelativeDocumentMoniker": "MyDemoApp\\Controllers\\DepartmentController.cs",
@@ -296,30 +323,6 @@
               "ViewState": "AgIAACkAAAAAAAAAAAAIwEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-06T06:25:21.824Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\Program.cs",
-              "RelativeDocumentMoniker": "MyDemoApp\\Program.cs",
-              "ToolTip": "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\Program.cs",
-              "RelativeToolTip": "MyDemoApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T11:36:58.943Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\appsettings.json",
-              "RelativeDocumentMoniker": "MyDemoApp\\appsettings.json",
-              "ToolTip": "D:\\Training-CP\\EFcore\\MyDemoApp\\MyDemoApp\\appsettings.json",
-              "RelativeToolTip": "MyDemoApp\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-07T07:04:35.303Z"
             },
             {
               "$type": "Document",

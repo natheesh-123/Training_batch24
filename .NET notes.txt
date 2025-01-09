@@ -29,3 +29,7 @@ ceate migration:  dotnet ef migrations add CompanyDB --project "C:\Projects\MySo
 update migration:  dotnet ef database update --project "C:\Projects\MySolution\MyApp.Data\demo.csproj"
 
 
+
+---------------------------------------
+.NET react
+
