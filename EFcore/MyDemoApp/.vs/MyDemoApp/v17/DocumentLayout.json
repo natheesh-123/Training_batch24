@@ -102,8 +102,7 @@
               "RelativeToolTip": "MyDemoApp\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-07T07:04:35.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T07:04:35.303Z"
             },
             {
               "$type": "Document",
@@ -115,8 +114,7 @@
               "RelativeToolTip": "MyDemoApp\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T11:36:58.943Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T11:36:58.943Z"
             },
             {
               "$type": "Document",
@@ -126,7 +124,7 @@
               "RelativeDocumentMoniker": "MyDemoApp\\Models\\CompanyContext.cs",
               "ToolTip": "C:\\learning\\Changepond_training\\EFcore\\MyDemoApp\\MyDemoApp\\Models\\CompanyContext.cs",
               "RelativeToolTip": "MyDemoApp\\Models\\CompanyContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-06T10:57:05.148Z",
               "EditorCaption": ""
@@ -153,8 +151,7 @@
               "RelativeToolTip": "MyDemoApp\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-08T12:35:16.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T12:35:16.76Z"
             },
             {
               "$type": "Document",
@@ -166,8 +163,7 @@
               "RelativeToolTip": "MyDemoApp\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T07:00:39.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T07:00:39.641Z"
             },
             {
               "$type": "Document",

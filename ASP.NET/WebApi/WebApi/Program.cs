@@ -1,3 +1,5 @@
+using Microsoft.EntityFrameworkCore;
+using WebApi.Controllers;
 using WebApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -7,7 +9,7 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddSingleton<IRepository, Repository>();
 
-builder.Services.AddDbContext<>(options => options.UseSqlServer(
+builder.Services.AddDbContext<ReservationContext>(options => options.UseSqlServer(
     builder.Configuration.GetConnectionString("DefaultConnection")));
 
 
