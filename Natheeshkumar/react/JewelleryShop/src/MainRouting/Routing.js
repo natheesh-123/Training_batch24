@@ -8,7 +8,7 @@ import MyCarouselComp from "../components/MyCarouselComp";
 
 const routing = createBrowserRouter([
 
-    
+    /*
         {path:"/",element:<BNKJewelleryShop/>,children:[
                 {path:"/",element:<HeaderComp/>},
 
@@ -29,8 +29,24 @@ const routing = createBrowserRouter([
 
           //wild card routing
             // { path: "*", element: <PageNotFoundComp /> }
+/
 
-        ]}
+
+
+
+        ]}     
+                */
+
+        {
+                // path: "dashboard", element: <MainDashBoard />, children: [
+                path: "", element: <MainDashBoard/>, children: [
+        
+                    // default Routing
+                    { path: "", element: <ReservationDashComp /> },
+                    { path: "addreservation", element: <AddReservationComp /> },
+                    { path: "editreservation/:id", element: <EditReservationComp /> },
+                ]        
+            }
        
     
 ]);
