@@ -37,7 +37,7 @@ const LoginComp = () => {
 
         <div className="loginContainer">
 
-            <h2>this is login</h2><br />
+            {/* <h2>this is login</h2><br /> */}
 
             <form className="loginform">
                 <labl className="form-label">enter user id:</labl>

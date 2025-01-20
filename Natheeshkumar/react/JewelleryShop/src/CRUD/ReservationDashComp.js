@@ -2,7 +2,8 @@
 
 import React, { useEffect, useState } from 'react'
 import axios from 'axios';
-import { Link, Outlet } from 'react-router-dom';
+// import { Link, Outlet } from 'react-router-dom';
+import {Link, Outlet} from 'react-router-dom'
 
 function ReservationDashComp() {
 
@@ -79,3 +80,6 @@ function ReservationDashComp() {
         </div>
     )
 }
+
+
+export default ReservationDashComp;

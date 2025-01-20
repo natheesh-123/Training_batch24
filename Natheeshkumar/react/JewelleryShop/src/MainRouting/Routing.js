@@ -1,10 +1,16 @@
 import { createBrowserRouter } from "react-router-dom";
-import HeaderComp from "../Layout/HeaderComp";
-import AboutComp from "../components/AboutComp";
-import HomeComp from "../components/HomeComp";
-import BNKJewelleryShop from "../Layout/BNKJewelleryShop";
-import ProductsComp from "../components/ProductsComp";
-import MyCarouselComp from "../components/MyCarouselComp";
+import AddReservationComp from "../CRUD/AddReservationComp";
+import EditReservationComp from "../CRUD/EditReservationComp";
+import MainDashBoard from "../Layout/MainDashBoard";
+import ReservationDashComp from "../CRUD/ReservationDashComp";
+// import HeaderComp from "../Layout/HeaderComp";
+// import AboutComp from "../components/AboutComp";
+// import HomeComp from "../components/HomeComp";
+// import BNKJewelleryShop from "../Layout/BNKJewelleryShop";
+// import ProductsComp from "../components/ProductsComp";
+// import MyCarouselComp from "../components/MyCarouselComp";
+
+
 
 const routing = createBrowserRouter([
 

@@ -1,4 +1,6 @@
 import React from 'react'
+import { Outlet } from 'react-router-dom';
+ 
 
 function MainDashBoard() {
     return (
@@ -8,6 +10,7 @@ function MainDashBoard() {
             <div className="card border-info mt-5">
                 <div className="card-body border-info">
                     <Outlet />
+                    <></>
                 </div>
             </div>
 
@@ -15,4 +18,4 @@ function MainDashBoard() {
     )
 }
 
-export default MainDashBoard
+export default MainDashBoard;

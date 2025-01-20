@@ -70,3 +70,4 @@ function AddReservationComp() {
     )
 }
 
+export default AddReservationComp;

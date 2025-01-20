@@ -85,3 +85,5 @@ function EditReservationComp() {
         </div>
     )
 }
+
+export default EditReservationComp;
