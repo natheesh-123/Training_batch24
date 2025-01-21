@@ -18,7 +18,7 @@ const LoginComp = () => {
         axios.get("http://localhost:8080/user").then((res) => {
             
             //console.log(res);
-           let currentUser= res.data.filter((val,index)=>{return val.userid===uid && val.userpass===upass})
+           let currentUser= res.data.filter((val,index)=>{return val.userid===uid && val.userpassword===upass})
             if(currentUser.length>0){
                 window.alert("login success");
                 sessionStorage.setItem("user",uid);
