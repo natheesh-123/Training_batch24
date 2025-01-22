@@ -3,7 +3,7 @@
     {
       "id": "102",
       "pname": "mouse",
-      "pprice": 50000,
+      "pprice": "50",
       "pcompany": "toshiba",
       "pquantity": 15
     },
@@ -29,11 +29,11 @@
       "pquantity": "50"
     },
     {
-      "id": "b03a",
-      "pname": "laps",
-      "pprice": "60000",
-      "pcompany": "asus",
-      "pquantity": "50"
+      "id": "1ff2",
+      "pname": "sim",
+      "pprice": "100",
+      "pcompany": "vi",
+      "pquantity": "5"
     }
   ],
   "user": [
