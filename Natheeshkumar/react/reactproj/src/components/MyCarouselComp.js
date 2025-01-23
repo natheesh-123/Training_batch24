@@ -8,7 +8,7 @@ const MyCarouselComp = () => {
             <h2>this is mu carousel comp</h2>
             <Carousel>
                 <Carousel.Item>
-                <img src={CommonData.bird}alt='img1'height="200px" width="200px"/>
+                <img src={CommonData.bird}alt='img1' height="200px" width="200px"/>
 
                     <Carousel.Caption>
                         <h3>First slide label</h3>
